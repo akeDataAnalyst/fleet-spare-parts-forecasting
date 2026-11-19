@@ -1,0 +1,25 @@
+part_number,part_name,category,unit_cost_aed,supplier,lead_time_days,expected_pattern,criticality,pm_ratio,seasonality_profile,anomaly_flag
+PRT-001,Heavy-Duty Engine Oil Filter,Filters & Fluids,65.0,Al-Futtaim Auto Parts,3,Fast-Moving,Medium,0.85,none,none
+PRT-002,Primary Fuel Water Separator Filter,Filters & Fluids,110.0,Al-Futtaim Auto Parts,4,Fast-Moving,High,0.8,none,none
+PRT-003,Engine Air Intake Filter Element,Filters & Fluids,145.0,Gargash Commercial Supply,5,Fast-Moving,Medium,0.82,summer,none
+PRT-004,Cabin & A/C Pollen Filter,HVAC & Cooling,75.0,Jebel Ali Fleet Spares,3,Fast-Moving,Low,0.78,summer,none
+PRT-005,Front Disc Brake Pad Set,Braking System,420.0,Brembo Gulf Distributors,7,Fast-Moving,High,0.6,none,rising
+PRT-006,Rear Brake Shoe & Lining Kit,Braking System,380.0,Brembo Gulf Distributors,7,Fast-Moving,High,0.65,none,none
+PRT-007,Heavy-Duty Wiper Blade Pair,Body & Exterior,55.0,Jebel Ali Fleet Spares,2,Slow-Moving,Low,0.7,winter,none
+PRT-008,Heated Side View Mirror Assembly,Body & Exterior,310.0,Gargash Commercial Supply,6,Slow-Moving,Medium,0.25,none,none
+PRT-009,LED Rear Combination Tail Lamp,Electrical & Lighting,190.0,Jebel Ali Fleet Spares,4,Slow-Moving,Medium,0.3,none,none
+PRT-010,Serpentine Drive Belt,Engine & Drivetrain,135.0,Al-Futtaim Auto Parts,5,Slow-Moving,High,0.75,summer,none
+PRT-011,Radiator Upper & Lower Hose Kit,HVAC & Cooling,210.0,Gargash Commercial Supply,6,Slow-Moving,High,0.55,summer,none
+PRT-012,Wheel Hub Oil Seal,Suspension & Axles,95.0,SKF Middle East,5,Slow-Moving,Medium,0.6,none,none
+PRT-013,12V/24V Heavy Commercial Alternator,Electrical & Lighting,1450.0,Bosch Automotive ME,14,Intermittent,High,0.15,summer,none
+PRT-014,Electronic Turbocharger Actuator,Engine & Drivetrain,2350.0,Gargash Commercial Supply,18,Intermittent,High,0.1,none,repeat_failure
+PRT-015,High-Torque Starter Motor,Electrical & Lighting,1180.0,Bosch Automotive ME,12,Intermittent,High,0.12,none,none
+PRT-016,A/C Compressor Assembly,HVAC & Cooling,1890.0,Denso Gulf Trading,15,Intermittent,High,0.2,summer,rising
+PRT-017,Air Suspension Solenoid Valve,Suspension & Axles,680.0,WABCO Emirates,10,Intermittent,Medium,0.25,none,none
+PRT-018,NOx Exhaust Gas Sensor,Engine & Drivetrain,920.0,Bosch Automotive ME,14,Intermittent,Medium,0.2,none,repeat_failure
+PRT-019,315/80 R22.5 All-Position Radial Tyre,Tyres & Wheels,1320.0,Bridgestone MEA,10,Lumpy,High,0.5,summer,none
+PRT-020,245/70 R17.5 Light Commercial Tyre,Tyres & Wheels,640.0,Bridgestone MEA,7,Lumpy,High,0.55,summer,none
+PRT-021,Heavy-Duty 150Ah AGM Fleet Battery,Electrical & Lighting,780.0,ACDelco Gulf,5,Lumpy,High,0.4,summer,rising
+PRT-022,Complete Clutch Pressure Plate & Disc Kit,Engine & Drivetrain,2650.0,ZF Services Middle East,21,Lumpy,High,0.3,none,none
+PRT-023,Front Shock Absorber Strut Pair,Suspension & Axles,840.0,ZF Services Middle East,12,Lumpy,Medium,0.45,none,none
+PRT-024,Refrigeration Unit Evaporator Fan Motor,HVAC & Cooling,1120.0,Thermo King Gulf,16,Lumpy,High,0.35,summer,repeat_failure

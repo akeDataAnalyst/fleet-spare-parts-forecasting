@@ -1,0 +1,171 @@
+vehicle_id,vehicle_type,vehicle_model,operating_hub,model_year,avg_monthly_km
+VEH-0001,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2022,9100
+VEH-0002,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2021,6939
+VEH-0003,Heavy-Duty Truck,Mercedes-Benz Actros,Sajaa Yard (Sharjah),2023,8247
+VEH-0004,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2023,7817
+VEH-0005,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2019,8552
+VEH-0006,Heavy-Duty Truck,Mercedes-Benz Actros,Sajaa Yard (Sharjah),2024,8874
+VEH-0007,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2018,7732
+VEH-0008,Heavy-Duty Truck,Mercedes-Benz Actros,Sajaa Yard (Sharjah),2021,8460
+VEH-0009,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2022,9478
+VEH-0010,Heavy-Duty Truck,Mercedes-Benz Actros,Sajaa Yard (Sharjah),2020,8157
+VEH-0011,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2020,8792
+VEH-0012,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2021,8844
+VEH-0013,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2020,8090
+VEH-0014,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2024,8992
+VEH-0015,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2021,7827
+VEH-0016,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2018,9020
+VEH-0017,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2019,7563
+VEH-0018,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2023,7967
+VEH-0019,Heavy-Duty Truck,Mercedes-Benz Actros,Sajaa Yard (Sharjah),2023,8674
+VEH-0020,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2020,8678
+VEH-0021,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2023,8731
+VEH-0022,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2018,7334
+VEH-0023,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2021,7988
+VEH-0024,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2021,9695
+VEH-0025,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2022,7153
+VEH-0026,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2021,8630
+VEH-0027,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2018,9134
+VEH-0028,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2021,8130
+VEH-0029,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2019,7479
+VEH-0030,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2020,7764
+VEH-0031,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2024,9052
+VEH-0032,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2020,8626
+VEH-0033,Heavy-Duty Truck,Mercedes-Benz Actros,Mussafah Depot (Abu Dhabi),2020,8865
+VEH-0034,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2020,8209
+VEH-0035,Heavy-Duty Truck,Mercedes-Benz Actros,Jebel Ali Hub (Dubai),2023,8889
+VEH-0036,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2023,5209
+VEH-0037,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2021,5732
+VEH-0038,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2022,4861
+VEH-0039,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2022,4042
+VEH-0040,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2020,4402
+VEH-0041,Medium-Duty Box Truck,Isuzu NPR,Sajaa Yard (Sharjah),2021,4897
+VEH-0042,Medium-Duty Box Truck,Isuzu NPR,Sajaa Yard (Sharjah),2022,4914
+VEH-0043,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2023,5035
+VEH-0044,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2021,4928
+VEH-0045,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2022,5547
+VEH-0046,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2019,4724
+VEH-0047,Medium-Duty Box Truck,Isuzu NPR,Sajaa Yard (Sharjah),2018,4776
+VEH-0048,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2023,5217
+VEH-0049,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2018,4381
+VEH-0050,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2022,5375
+VEH-0051,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2019,5485
+VEH-0052,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2020,4248
+VEH-0053,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2020,4888
+VEH-0054,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2024,5708
+VEH-0055,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2019,4387
+VEH-0056,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2024,5870
+VEH-0057,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2022,5531
+VEH-0058,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2021,3494
+VEH-0059,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2024,4867
+VEH-0060,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2020,5087
+VEH-0061,Medium-Duty Box Truck,Isuzu NPR,Sajaa Yard (Sharjah),2018,5073
+VEH-0062,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2024,3860
+VEH-0063,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2018,5424
+VEH-0064,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2019,5304
+VEH-0065,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2022,4252
+VEH-0066,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2024,4619
+VEH-0067,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2020,5870
+VEH-0068,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2023,5945
+VEH-0069,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2022,5167
+VEH-0070,Medium-Duty Box Truck,Isuzu NPR,Sajaa Yard (Sharjah),2021,5556
+VEH-0071,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2020,4177
+VEH-0072,Medium-Duty Box Truck,Isuzu NPR,Sajaa Yard (Sharjah),2021,6463
+VEH-0073,Medium-Duty Box Truck,Isuzu NPR,Sajaa Yard (Sharjah),2019,5428
+VEH-0074,Medium-Duty Box Truck,Isuzu NPR,Jebel Ali Hub (Dubai),2024,5375
+VEH-0075,Medium-Duty Box Truck,Isuzu NPR,Mussafah Depot (Abu Dhabi),2020,5543
+VEH-0076,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2020,5346
+VEH-0077,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2024,6520
+VEH-0078,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2019,5056
+VEH-0079,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2020,4314
+VEH-0080,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2022,5714
+VEH-0081,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2021,5069
+VEH-0082,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2021,6325
+VEH-0083,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2018,3559
+VEH-0084,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2022,4525
+VEH-0085,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2020,4932
+VEH-0086,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2019,4138
+VEH-0087,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2021,5590
+VEH-0088,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2018,4937
+VEH-0089,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2021,6269
+VEH-0090,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2022,4643
+VEH-0091,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2022,5341
+VEH-0092,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2021,5272
+VEH-0093,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2018,6701
+VEH-0094,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2024,4970
+VEH-0095,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2022,5452
+VEH-0096,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2023,4616
+VEH-0097,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2021,5069
+VEH-0098,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2019,4776
+VEH-0099,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2024,5124
+VEH-0100,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2020,4026
+VEH-0101,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2019,4322
+VEH-0102,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2019,7524
+VEH-0103,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2021,5473
+VEH-0104,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2022,4410
+VEH-0105,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2024,5547
+VEH-0106,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2024,5092
+VEH-0107,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2021,4986
+VEH-0108,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2018,4755
+VEH-0109,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2021,5324
+VEH-0110,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2022,5242
+VEH-0111,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2023,5453
+VEH-0112,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2023,7451
+VEH-0113,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2022,5508
+VEH-0114,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2021,4310
+VEH-0115,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2018,5584
+VEH-0116,Delivery Van,Toyota HiAce,Jebel Ali Hub (Dubai),2018,5941
+VEH-0117,Delivery Van,Toyota HiAce,Sajaa Yard (Sharjah),2019,4822
+VEH-0118,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2024,5241
+VEH-0119,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2023,4998
+VEH-0120,Delivery Van,Toyota HiAce,Mussafah Depot (Abu Dhabi),2018,6377
+VEH-0121,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2023,5341
+VEH-0122,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Jebel Ali Hub (Dubai),2020,4902
+VEH-0123,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2019,6581
+VEH-0124,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Jebel Ali Hub (Dubai),2020,5891
+VEH-0125,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Jebel Ali Hub (Dubai),2021,4357
+VEH-0126,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Jebel Ali Hub (Dubai),2020,6240
+VEH-0127,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Sajaa Yard (Sharjah),2023,6141
+VEH-0128,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2021,6595
+VEH-0129,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2019,4962
+VEH-0130,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2023,4642
+VEH-0131,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2018,5825
+VEH-0132,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Sajaa Yard (Sharjah),2019,5256
+VEH-0133,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2022,6656
+VEH-0134,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Jebel Ali Hub (Dubai),2018,3942
+VEH-0135,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Jebel Ali Hub (Dubai),2024,4785
+VEH-0136,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2024,5710
+VEH-0137,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2024,5226
+VEH-0138,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2024,4663
+VEH-0139,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2019,6124
+VEH-0140,Refrigerated Chiller Truck,Mitsubishi Fuso Canter,Mussafah Depot (Abu Dhabi),2019,3366
+VEH-0141,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2023,5531
+VEH-0142,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2023,3549
+VEH-0143,Utility Pickup,Toyota Hilux,Sajaa Yard (Sharjah),2023,3934
+VEH-0144,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2018,5494
+VEH-0145,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2024,5851
+VEH-0146,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2023,5386
+VEH-0147,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2022,4509
+VEH-0148,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2019,5077
+VEH-0149,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2018,4353
+VEH-0150,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2024,6385
+VEH-0151,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2024,5361
+VEH-0152,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2024,5209
+VEH-0153,Utility Pickup,Toyota Hilux,Sajaa Yard (Sharjah),2018,5873
+VEH-0154,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2023,7062
+VEH-0155,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2018,6483
+VEH-0156,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2018,5286
+VEH-0157,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2023,4198
+VEH-0158,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2023,4564
+VEH-0159,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2021,5421
+VEH-0160,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2024,3351
+VEH-0161,Utility Pickup,Toyota Hilux,Sajaa Yard (Sharjah),2022,5567
+VEH-0162,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2019,5310
+VEH-0163,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2022,5624
+VEH-0164,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2024,5056
+VEH-0165,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2023,4885
+VEH-0166,Utility Pickup,Toyota Hilux,Mussafah Depot (Abu Dhabi),2019,4987
+VEH-0167,Utility Pickup,Toyota Hilux,Jebel Ali Hub (Dubai),2019,3605
+VEH-0168,Utility Pickup,Toyota Hilux,Sajaa Yard (Sharjah),2018,4014
+VEH-0169,Utility Pickup,Toyota Hilux,Sajaa Yard (Sharjah),2019,5799
+VEH-0170,Utility Pickup,Toyota Hilux,Sajaa Yard (Sharjah),2018,5358

@@ -1,0 +1,1127 @@
+month,vehicle_type,category,demand_qty,total_cost_aed,work_order_count,repeat_fail_events
+2023-01-01,Delivery Van,Body & Exterior,5,530.0,4,0
+2023-01-01,Delivery Van,Braking System,25,10100.0,11,0
+2023-01-01,Delivery Van,Electrical & Lighting,16,13820.0,2,0
+2023-01-01,Delivery Van,Filters & Fluids,46,4500.0,21,0
+2023-01-01,Delivery Van,HVAC & Cooling,24,3615.0,12,0
+2023-01-01,Heavy-Duty Truck,Body & Exterior,6,1350.0,3,0
+2023-01-01,Heavy-Duty Truck,Braking System,50,19920.0,24,1
+2023-01-01,Heavy-Duty Truck,Electrical & Lighting,19,11870.0,4,1
+2023-01-01,Heavy-Duty Truck,Engine & Drivetrain,4,540.0,3,0
+2023-01-01,Heavy-Duty Truck,Filters & Fluids,59,5895.0,28,0
+2023-01-01,Heavy-Duty Truck,HVAC & Cooling,27,3975.0,13,0
+2023-01-01,Heavy-Duty Truck,Suspension & Axles,5,475.0,3,0
+2023-01-01,Medium-Duty Box Truck,Body & Exterior,4,730.0,3,0
+2023-01-01,Medium-Duty Box Truck,Braking System,25,9900.0,11,0
+2023-01-01,Medium-Duty Box Truck,Electrical & Lighting,3,570.0,2,0
+2023-01-01,Medium-Duty Box Truck,Engine & Drivetrain,1,135.0,1,0
+2023-01-01,Medium-Duty Box Truck,Filters & Fluids,33,3075.0,17,0
+2023-01-01,Medium-Duty Box Truck,HVAC & Cooling,9,945.0,4,0
+2023-01-01,Medium-Duty Box Truck,Suspension & Axles,23,17830.0,3,0
+2023-01-01,Refrigerated Chiller Truck,Body & Exterior,5,1550.0,3,0
+2023-01-01,Refrigerated Chiller Truck,Braking System,10,4000.0,4,0
+2023-01-01,Refrigerated Chiller Truck,Filters & Fluids,26,2905.0,10,0
+2023-01-01,Refrigerated Chiller Truck,HVAC & Cooling,17,13950.0,5,0
+2023-01-01,Utility Pickup,Braking System,10,4200.0,4,0
+2023-01-01,Utility Pickup,Filters & Fluids,15,1705.0,6,0
+2023-01-01,Utility Pickup,HVAC & Cooling,3,225.0,2,0
+2023-01-01,Utility Pickup,Suspension & Axles,1,95.0,1,0
+2023-02-01,Delivery Van,Body & Exterior,3,420.0,2,0
+2023-02-01,Delivery Van,Braking System,24,9480.0,11,0
+2023-02-01,Delivery Van,Electrical & Lighting,1,190.0,1,0
+2023-02-01,Delivery Van,Filters & Fluids,30,2720.0,15,2
+2023-02-01,Delivery Van,HVAC & Cooling,9,675.0,4,0
+2023-02-01,Heavy-Duty Truck,Body & Exterior,6,1350.0,4,1
+2023-02-01,Heavy-Duty Truck,Braking System,39,15420.0,20,2
+2023-02-01,Heavy-Duty Truck,Electrical & Lighting,6,1140.0,5,1
+2023-02-01,Heavy-Duty Truck,Engine & Drivetrain,1,135.0,1,0
+2023-02-01,Heavy-Duty Truck,Filters & Fluids,46,5010.0,28,0
+2023-02-01,Heavy-Duty Truck,HVAC & Cooling,25,6045.0,15,1
+2023-02-01,Heavy-Duty Truck,Suspension & Axles,4,965.0,3,0
+2023-02-01,Heavy-Duty Truck,Tyres & Wheels,10,13200.0,1,0
+2023-02-01,Medium-Duty Box Truck,Body & Exterior,6,1605.0,4,0
+2023-02-01,Medium-Duty Box Truck,Braking System,34,13320.0,17,0
+2023-02-01,Medium-Duty Box Truck,Electrical & Lighting,1,190.0,1,0
+2023-02-01,Medium-Duty Box Truck,Engine & Drivetrain,2,270.0,2,0
+2023-02-01,Medium-Duty Box Truck,Filters & Fluids,36,4050.0,17,0
+2023-02-01,Medium-Duty Box Truck,HVAC & Cooling,9,945.0,5,0
+2023-02-01,Medium-Duty Box Truck,Suspension & Axles,1,680.0,1,0
+2023-02-01,Refrigerated Chiller Truck,Braking System,26,10600.0,13,0
+2023-02-01,Refrigerated Chiller Truck,Electrical & Lighting,2,380.0,1,0
+2023-02-01,Refrigerated Chiller Truck,Filters & Fluids,28,2635.0,13,1
+2023-02-01,Refrigerated Chiller Truck,HVAC & Cooling,11,1230.0,5,0
+2023-02-01,Utility Pickup,Body & Exterior,1,310.0,1,0
+2023-02-01,Utility Pickup,Braking System,18,7040.0,8,0
+2023-02-01,Utility Pickup,Engine & Drivetrain,1,135.0,1,0
+2023-02-01,Utility Pickup,Filters & Fluids,18,2220.0,10,0
+2023-02-01,Utility Pickup,HVAC & Cooling,7,7785.0,3,0
+2023-02-01,Utility Pickup,Suspension & Axles,1,680.0,1,0
+2023-03-01,Delivery Van,Body & Exterior,1,55.0,1,0
+2023-03-01,Delivery Van,Braking System,19,7500.0,11,0
+2023-03-01,Delivery Van,Engine & Drivetrain,5,675.0,3,0
+2023-03-01,Delivery Van,Filters & Fluids,42,4685.0,20,0
+2023-03-01,Delivery Van,HVAC & Cooling,11,825.0,5,0
+2023-03-01,Delivery Van,Suspension & Axles,2,190.0,1,0
+2023-03-01,Heavy-Duty Truck,Body & Exterior,8,1970.0,5,0
+2023-03-01,Heavy-Duty Truck,Braking System,45,17820.0,27,1
+2023-03-01,Heavy-Duty Truck,Electrical & Lighting,7,3850.0,4,0
+2023-03-01,Heavy-Duty Truck,Engine & Drivetrain,4,1325.0,3,0
+2023-03-01,Heavy-Duty Truck,Filters & Fluids,45,4900.0,21,0
+2023-03-01,Heavy-Duty Truck,HVAC & Cooling,24,2880.0,13,0
+2023-03-01,Heavy-Duty Truck,Suspension & Axles,3,285.0,2,0
+2023-03-01,Heavy-Duty Truck,Tyres & Wheels,7,4480.0,1,0
+2023-03-01,Medium-Duty Box Truck,Body & Exterior,2,365.0,2,0
+2023-03-01,Medium-Duty Box Truck,Braking System,39,15420.0,18,2
+2023-03-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,1,0
+2023-03-01,Medium-Duty Box Truck,Filters & Fluids,34,3495.0,19,0
+2023-03-01,Medium-Duty Box Truck,HVAC & Cooling,21,5340.0,9,1
+2023-03-01,Medium-Duty Box Truck,Suspension & Axles,9,6070.0,2,0
+2023-03-01,Medium-Duty Box Truck,Tyres & Wheels,5,6600.0,1,0
+2023-03-01,Refrigerated Chiller Truck,Body & Exterior,2,365.0,2,0
+2023-03-01,Refrigerated Chiller Truck,Braking System,14,5720.0,7,0
+2023-03-01,Refrigerated Chiller Truck,Electrical & Lighting,1,190.0,1,1
+2023-03-01,Refrigerated Chiller Truck,Filters & Fluids,36,3895.0,18,0
+2023-03-01,Refrigerated Chiller Truck,HVAC & Cooling,4,300.0,2,0
+2023-03-01,Refrigerated Chiller Truck,Tyres & Wheels,7,9240.0,1,0
+2023-03-01,Utility Pickup,Braking System,8,3160.0,4,0
+2023-03-01,Utility Pickup,Electrical & Lighting,3,3540.0,2,0
+2023-03-01,Utility Pickup,Filters & Fluids,20,2510.0,9,0
+2023-03-01,Utility Pickup,HVAC & Cooling,5,375.0,3,0
+2023-04-01,Delivery Van,Body & Exterior,4,730.0,2,0
+2023-04-01,Delivery Van,Braking System,10,4080.0,5,1
+2023-04-01,Delivery Van,Engine & Drivetrain,2,270.0,1,1
+2023-04-01,Delivery Van,Filters & Fluids,35,3260.0,19,0
+2023-04-01,Delivery Van,HVAC & Cooling,7,525.0,3,0
+2023-04-01,Delivery Van,Suspension & Axles,12,10080.0,1,0
+2023-04-01,Heavy-Duty Truck,Body & Exterior,5,275.0,3,0
+2023-04-01,Heavy-Duty Truck,Braking System,39,15860.0,18,2
+2023-04-01,Heavy-Duty Truck,Electrical & Lighting,8,7660.0,4,0
+2023-04-01,Heavy-Duty Truck,Engine & Drivetrain,5,5105.0,3,0
+2023-04-01,Heavy-Duty Truck,Filters & Fluids,56,6435.0,30,2
+2023-04-01,Heavy-Duty Truck,HVAC & Cooling,26,2085.0,12,0
+2023-04-01,Heavy-Duty Truck,Suspension & Axles,3,285.0,2,0
+2023-04-01,Medium-Duty Box Truck,Body & Exterior,1,55.0,1,0
+2023-04-01,Medium-Duty Box Truck,Braking System,29,11580.0,15,0
+2023-04-01,Medium-Duty Box Truck,Electrical & Lighting,17,12880.0,3,0
+2023-04-01,Medium-Duty Box Truck,Engine & Drivetrain,3,405.0,2,0
+2023-04-01,Medium-Duty Box Truck,Filters & Fluids,44,3965.0,20,0
+2023-04-01,Medium-Duty Box Truck,HVAC & Cooling,24,2205.0,12,0
+2023-04-01,Refrigerated Chiller Truck,Body & Exterior,5,1550.0,4,0
+2023-04-01,Refrigerated Chiller Truck,Braking System,6,2480.0,3,0
+2023-04-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,4700.0,2,0
+2023-04-01,Refrigerated Chiller Truck,Filters & Fluids,33,4010.0,17,1
+2023-04-01,Refrigerated Chiller Truck,HVAC & Cooling,4,300.0,2,0
+2023-04-01,Refrigerated Chiller Truck,Tyres & Wheels,12,15840.0,1,0
+2023-04-01,Utility Pickup,Body & Exterior,1,55.0,1,0
+2023-04-01,Utility Pickup,Braking System,11,4460.0,7,1
+2023-04-01,Utility Pickup,Electrical & Lighting,1,1180.0,1,0
+2023-04-01,Utility Pickup,Engine & Drivetrain,2,270.0,1,0
+2023-04-01,Utility Pickup,Filters & Fluids,15,1665.0,7,0
+2023-04-01,Utility Pickup,HVAC & Cooling,10,750.0,4,0
+2023-04-01,Utility Pickup,Suspension & Axles,8,5230.0,2,0
+2023-05-01,Delivery Van,Braking System,24,9680.0,10,0
+2023-05-01,Delivery Van,Engine & Drivetrain,1,135.0,1,0
+2023-05-01,Delivery Van,Filters & Fluids,36,3835.0,16,0
+2023-05-01,Delivery Van,HVAC & Cooling,19,1830.0,10,1
+2023-05-01,Heavy-Duty Truck,Body & Exterior,3,420.0,2,0
+2023-05-01,Heavy-Duty Truck,Braking System,44,18040.0,21,1
+2023-05-01,Heavy-Duty Truck,Electrical & Lighting,19,12620.0,6,1
+2023-05-01,Heavy-Duty Truck,Engine & Drivetrain,5,675.0,3,0
+2023-05-01,Heavy-Duty Truck,Filters & Fluids,79,8350.0,38,1
+2023-05-01,Heavy-Duty Truck,HVAC & Cooling,32,2940.0,18,0
+2023-05-01,Heavy-Duty Truck,Suspension & Axles,3,285.0,2,0
+2023-05-01,Heavy-Duty Truck,Tyres & Wheels,14,18480.0,1,0
+2023-05-01,Medium-Duty Box Truck,Body & Exterior,2,365.0,2,0
+2023-05-01,Medium-Duty Box Truck,Braking System,23,9500.0,11,0
+2023-05-01,Medium-Duty Box Truck,Electrical & Lighting,1,190.0,1,0
+2023-05-01,Medium-Duty Box Truck,Engine & Drivetrain,10,7995.0,7,2
+2023-05-01,Medium-Duty Box Truck,Filters & Fluids,63,6800.0,29,0
+2023-05-01,Medium-Duty Box Truck,HVAC & Cooling,20,1635.0,10,0
+2023-05-01,Medium-Duty Box Truck,Suspension & Axles,2,190.0,2,0
+2023-05-01,Medium-Duty Box Truck,Tyres & Wheels,4,2560.0,1,0
+2023-05-01,Refrigerated Chiller Truck,Braking System,6,2280.0,3,0
+2023-05-01,Refrigerated Chiller Truck,Electrical & Lighting,1,190.0,1,0
+2023-05-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,270.0,1,0
+2023-05-01,Refrigerated Chiller Truck,Filters & Fluids,22,2500.0,10,0
+2023-05-01,Refrigerated Chiller Truck,HVAC & Cooling,32,21480.0,10,1
+2023-05-01,Refrigerated Chiller Truck,Suspension & Axles,5,4200.0,1,0
+2023-05-01,Refrigerated Chiller Truck,Tyres & Wheels,9,11880.0,1,0
+2023-05-01,Utility Pickup,Braking System,6,2400.0,4,0
+2023-05-01,Utility Pickup,Electrical & Lighting,6,3500.0,2,0
+2023-05-01,Utility Pickup,Engine & Drivetrain,2,4700.0,1,0
+2023-05-01,Utility Pickup,Filters & Fluids,16,1835.0,8,0
+2023-05-01,Utility Pickup,HVAC & Cooling,1,75.0,1,0
+2023-06-01,Delivery Van,Body & Exterior,2,620.0,1,0
+2023-06-01,Delivery Van,Braking System,16,6400.0,7,1
+2023-06-01,Delivery Van,Electrical & Lighting,6,4680.0,1,0
+2023-06-01,Delivery Van,Engine & Drivetrain,3,405.0,2,0
+2023-06-01,Delivery Van,Filters & Fluids,37,4420.0,21,0
+2023-06-01,Delivery Van,HVAC & Cooling,24,1935.0,10,0
+2023-06-01,Heavy-Duty Truck,Body & Exterior,2,620.0,1,0
+2023-06-01,Heavy-Duty Truck,Braking System,39,15660.0,17,0
+2023-06-01,Heavy-Duty Truck,Electrical & Lighting,9,5490.0,5,0
+2023-06-01,Heavy-Duty Truck,Engine & Drivetrain,5,10735.0,2,0
+2023-06-01,Heavy-Duty Truck,Filters & Fluids,45,5375.0,21,0
+2023-06-01,Heavy-Duty Truck,HVAC & Cooling,43,3360.0,22,0
+2023-06-01,Heavy-Duty Truck,Suspension & Axles,11,8495.0,2,0
+2023-06-01,Medium-Duty Box Truck,Body & Exterior,1,55.0,1,0
+2023-06-01,Medium-Duty Box Truck,Braking System,19,7700.0,8,0
+2023-06-01,Medium-Duty Box Truck,Engine & Drivetrain,4,540.0,3,0
+2023-06-01,Medium-Duty Box Truck,Filters & Fluids,35,4255.0,15,0
+2023-06-01,Medium-Duty Box Truck,HVAC & Cooling,26,5715.0,17,2
+2023-06-01,Medium-Duty Box Truck,Suspension & Axles,13,10175.0,2,0
+2023-06-01,Refrigerated Chiller Truck,Braking System,19,7540.0,12,0
+2023-06-01,Refrigerated Chiller Truck,Engine & Drivetrain,3,405.0,2,0
+2023-06-01,Refrigerated Chiller Truck,Filters & Fluids,36,3710.0,17,1
+2023-06-01,Refrigerated Chiller Truck,HVAC & Cooling,27,17920.0,9,2
+2023-06-01,Utility Pickup,Braking System,11,4260.0,5,0
+2023-06-01,Utility Pickup,Electrical & Lighting,14,10920.0,1,0
+2023-06-01,Utility Pickup,Filters & Fluids,24,2680.0,10,0
+2023-06-01,Utility Pickup,HVAC & Cooling,13,1380.0,8,0
+2023-07-01,Delivery Van,Body & Exterior,3,930.0,2,0
+2023-07-01,Delivery Van,Braking System,16,6440.0,8,1
+2023-07-01,Delivery Van,Electrical & Lighting,10,7800.0,1,0
+2023-07-01,Delivery Van,Engine & Drivetrain,2,270.0,1,0
+2023-07-01,Delivery Van,Filters & Fluids,55,6605.0,25,0
+2023-07-01,Delivery Van,HVAC & Cooling,12,1170.0,9,0
+2023-07-01,Delivery Van,Suspension & Axles,3,870.0,2,0
+2023-07-01,Heavy-Duty Truck,Body & Exterior,8,950.0,4,0
+2023-07-01,Heavy-Duty Truck,Braking System,48,19280.0,22,0
+2023-07-01,Heavy-Duty Truck,Electrical & Lighting,16,11300.0,3,0
+2023-07-01,Heavy-Duty Truck,Engine & Drivetrain,20,39480.0,5,1
+2023-07-01,Heavy-Duty Truck,Filters & Fluids,41,4785.0,21,0
+2023-07-01,Heavy-Duty Truck,HVAC & Cooling,27,6060.0,16,0
+2023-07-01,Heavy-Duty Truck,Suspension & Axles,1,680.0,1,0
+2023-07-01,Heavy-Duty Truck,Tyres & Wheels,12,7680.0,1,0
+2023-07-01,Medium-Duty Box Truck,Body & Exterior,2,620.0,1,0
+2023-07-01,Medium-Duty Box Truck,Braking System,37,14740.0,18,0
+2023-07-01,Medium-Duty Box Truck,Electrical & Lighting,3,570.0,2,0
+2023-07-01,Medium-Duty Box Truck,Engine & Drivetrain,1,920.0,1,0
+2023-07-01,Medium-Duty Box Truck,Filters & Fluids,34,4100.0,19,0
+2023-07-01,Medium-Duty Box Truck,HVAC & Cooling,28,2910.0,15,0
+2023-07-01,Medium-Duty Box Truck,Suspension & Axles,6,1740.0,3,0
+2023-07-01,Medium-Duty Box Truck,Tyres & Wheels,11,14520.0,1,0
+2023-07-01,Refrigerated Chiller Truck,Body & Exterior,4,730.0,3,0
+2023-07-01,Refrigerated Chiller Truck,Braking System,15,5940.0,8,0
+2023-07-01,Refrigerated Chiller Truck,Electrical & Lighting,1,1450.0,1,0
+2023-07-01,Refrigerated Chiller Truck,Engine & Drivetrain,1,135.0,1,0
+2023-07-01,Refrigerated Chiller Truck,Filters & Fluids,26,2725.0,13,0
+2023-07-01,Refrigerated Chiller Truck,HVAC & Cooling,20,13130.0,5,1
+2023-07-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,1,0
+2023-07-01,Utility Pickup,Body & Exterior,4,730.0,2,0
+2023-07-01,Utility Pickup,Braking System,19,7460.0,7,0
+2023-07-01,Utility Pickup,Electrical & Lighting,3,1830.0,2,0
+2023-07-01,Utility Pickup,Engine & Drivetrain,2,270.0,2,0
+2023-07-01,Utility Pickup,Filters & Fluids,13,1725.0,7,0
+2023-07-01,Utility Pickup,HVAC & Cooling,12,4665.0,7,0
+2023-08-01,Delivery Van,Body & Exterior,2,110.0,1,0
+2023-08-01,Delivery Van,Braking System,21,8300.0,10,1
+2023-08-01,Delivery Van,Electrical & Lighting,8,5480.0,5,0
+2023-08-01,Delivery Van,Engine & Drivetrain,1,135.0,1,0
+2023-08-01,Delivery Van,Filters & Fluids,52,6240.0,24,1
+2023-08-01,Delivery Van,HVAC & Cooling,18,1890.0,9,1
+2023-08-01,Heavy-Duty Truck,Body & Exterior,7,1915.0,4,0
+2023-08-01,Heavy-Duty Truck,Braking System,29,11420.0,17,3
+2023-08-01,Heavy-Duty Truck,Electrical & Lighting,4,3280.0,3,0
+2023-08-01,Heavy-Duty Truck,Engine & Drivetrain,5,675.0,3,0
+2023-08-01,Heavy-Duty Truck,Filters & Fluids,79,8650.0,39,1
+2023-08-01,Heavy-Duty Truck,HVAC & Cooling,24,1935.0,15,0
+2023-08-01,Heavy-Duty Truck,Suspension & Axles,16,11470.0,4,0
+2023-08-01,Heavy-Duty Truck,Tyres & Wheels,7,4480.0,1,0
+2023-08-01,Medium-Duty Box Truck,Body & Exterior,2,110.0,1,0
+2023-08-01,Medium-Duty Box Truck,Braking System,31,12580.0,13,0
+2023-08-01,Medium-Duty Box Truck,Electrical & Lighting,1,1450.0,1,0
+2023-08-01,Medium-Duty Box Truck,Engine & Drivetrain,3,1190.0,2,1
+2023-08-01,Medium-Duty Box Truck,Filters & Fluids,43,5530.0,20,0
+2023-08-01,Medium-Duty Box Truck,HVAC & Cooling,23,2130.0,13,0
+2023-08-01,Medium-Duty Box Truck,Suspension & Axles,2,190.0,1,0
+2023-08-01,Refrigerated Chiller Truck,Body & Exterior,3,675.0,2,0
+2023-08-01,Refrigerated Chiller Truck,Braking System,16,6400.0,7,0
+2023-08-01,Refrigerated Chiller Truck,Electrical & Lighting,8,5060.0,2,1
+2023-08-01,Refrigerated Chiller Truck,Filters & Fluids,13,1380.0,9,0
+2023-08-01,Refrigerated Chiller Truck,HVAC & Cooling,25,15460.0,7,0
+2023-08-01,Refrigerated Chiller Truck,Suspension & Axles,14,11760.0,1,0
+2023-08-01,Utility Pickup,Body & Exterior,2,110.0,1,0
+2023-08-01,Utility Pickup,Braking System,8,3160.0,5,0
+2023-08-01,Utility Pickup,Electrical & Lighting,12,10430.0,3,0
+2023-08-01,Utility Pickup,Filters & Fluids,23,2710.0,11,0
+2023-08-01,Utility Pickup,HVAC & Cooling,12,1305.0,7,0
+2023-08-01,Utility Pickup,Suspension & Axles,1,95.0,1,0
+2023-09-01,Delivery Van,Body & Exterior,2,110.0,1,0
+2023-09-01,Delivery Van,Braking System,36,14400.0,18,1
+2023-09-01,Delivery Van,Electrical & Lighting,1,1180.0,1,0
+2023-09-01,Delivery Van,Engine & Drivetrain,9,18820.0,2,0
+2023-09-01,Delivery Van,Filters & Fluids,36,4530.0,19,0
+2023-09-01,Delivery Van,HVAC & Cooling,12,1170.0,6,0
+2023-09-01,Delivery Van,Suspension & Axles,2,1360.0,1,0
+2023-09-01,Delivery Van,Tyres & Wheels,18,19000.0,2,1
+2023-09-01,Heavy-Duty Truck,Body & Exterior,8,1205.0,5,0
+2023-09-01,Heavy-Duty Truck,Braking System,35,13980.0,17,2
+2023-09-01,Heavy-Duty Truck,Electrical & Lighting,27,17680.0,7,0
+2023-09-01,Heavy-Duty Truck,Engine & Drivetrain,14,32070.0,3,0
+2023-09-01,Heavy-Duty Truck,Filters & Fluids,85,9605.0,37,0
+2023-09-01,Heavy-Duty Truck,HVAC & Cooling,31,2595.0,18,0
+2023-09-01,Heavy-Duty Truck,Tyres & Wheels,10,13200.0,1,0
+2023-09-01,Medium-Duty Box Truck,Body & Exterior,1,310.0,1,0
+2023-09-01,Medium-Duty Box Truck,Braking System,26,10560.0,12,0
+2023-09-01,Medium-Duty Box Truck,Electrical & Lighting,2,1640.0,2,0
+2023-09-01,Medium-Duty Box Truck,Engine & Drivetrain,1,920.0,1,0
+2023-09-01,Medium-Duty Box Truck,Filters & Fluids,54,5695.0,26,0
+2023-09-01,Medium-Duty Box Truck,HVAC & Cooling,24,3885.0,11,0
+2023-09-01,Medium-Duty Box Truck,Suspension & Axles,3,870.0,2,0
+2023-09-01,Refrigerated Chiller Truck,Braking System,14,5440.0,7,1
+2023-09-01,Refrigerated Chiller Truck,Electrical & Lighting,1,190.0,1,0
+2023-09-01,Refrigerated Chiller Truck,Engine & Drivetrain,4,2755.0,3,0
+2023-09-01,Refrigerated Chiller Truck,Filters & Fluids,11,1385.0,6,0
+2023-09-01,Refrigerated Chiller Truck,HVAC & Cooling,12,900.0,6,0
+2023-09-01,Refrigerated Chiller Truck,Suspension & Axles,2,1360.0,1,0
+2023-09-01,Utility Pickup,Body & Exterior,1,310.0,1,0
+2023-09-01,Utility Pickup,Braking System,4,1640.0,2,0
+2023-09-01,Utility Pickup,Electrical & Lighting,3,1830.0,2,0
+2023-09-01,Utility Pickup,Filters & Fluids,15,1965.0,6,0
+2023-09-01,Utility Pickup,HVAC & Cooling,12,1170.0,5,0
+2023-10-01,Delivery Van,Body & Exterior,6,840.0,4,1
+2023-10-01,Delivery Van,Braking System,23,9260.0,12,0
+2023-10-01,Delivery Van,Filters & Fluids,39,3785.0,22,0
+2023-10-01,Delivery Van,HVAC & Cooling,16,1470.0,8,0
+2023-10-01,Delivery Van,Suspension & Axles,14,11015.0,2,0
+2023-10-01,Heavy-Duty Truck,Body & Exterior,7,640.0,4,0
+2023-10-01,Heavy-Duty Truck,Braking System,29,11340.0,15,0
+2023-10-01,Heavy-Duty Truck,Electrical & Lighting,4,4270.0,3,0
+2023-10-01,Heavy-Duty Truck,Engine & Drivetrain,8,18685.0,2,0
+2023-10-01,Heavy-Duty Truck,Filters & Fluids,56,5970.0,31,0
+2023-10-01,Heavy-Duty Truck,HVAC & Cooling,19,3240.0,11,0
+2023-10-01,Heavy-Duty Truck,Tyres & Wheels,5,3200.0,1,0
+2023-10-01,Medium-Duty Box Truck,Body & Exterior,3,675.0,2,0
+2023-10-01,Medium-Duty Box Truck,Braking System,25,9700.0,14,0
+2023-10-01,Medium-Duty Box Truck,Electrical & Lighting,9,3690.0,6,0
+2023-10-01,Medium-Duty Box Truck,Engine & Drivetrain,8,18685.0,2,0
+2023-10-01,Medium-Duty Box Truck,Filters & Fluids,41,3445.0,20,0
+2023-10-01,Medium-Duty Box Truck,HVAC & Cooling,22,4140.0,12,3
+2023-10-01,Refrigerated Chiller Truck,Braking System,23,9140.0,11,0
+2023-10-01,Refrigerated Chiller Truck,Engine & Drivetrain,3,1975.0,2,1
+2023-10-01,Refrigerated Chiller Truck,Filters & Fluids,22,2270.0,13,0
+2023-10-01,Refrigerated Chiller Truck,HVAC & Cooling,5,4555.0,2,0
+2023-10-01,Refrigerated Chiller Truck,Suspension & Axles,8,5975.0,2,0
+2023-10-01,Utility Pickup,Body & Exterior,2,110.0,1,0
+2023-10-01,Utility Pickup,Braking System,21,8340.0,10,0
+2023-10-01,Utility Pickup,Electrical & Lighting,2,2900.0,1,0
+2023-10-01,Utility Pickup,Filters & Fluids,25,2590.0,11,0
+2023-10-01,Utility Pickup,HVAC & Cooling,7,525.0,3,0
+2023-11-01,Delivery Van,Body & Exterior,1,55.0,1,0
+2023-11-01,Delivery Van,Braking System,36,14640.0,19,2
+2023-11-01,Delivery Van,Electrical & Lighting,7,2320.0,5,0
+2023-11-01,Delivery Van,Engine & Drivetrain,5,9535.0,3,1
+2023-11-01,Delivery Van,Filters & Fluids,16,1915.0,8,0
+2023-11-01,Delivery Van,HVAC & Cooling,19,1695.0,10,0
+2023-11-01,Delivery Van,Suspension & Axles,2,190.0,1,0
+2023-11-01,Heavy-Duty Truck,Body & Exterior,4,475.0,3,1
+2023-11-01,Heavy-Duty Truck,Braking System,30,12160.0,14,0
+2023-11-01,Heavy-Duty Truck,Electrical & Lighting,8,1520.0,4,1
+2023-11-01,Heavy-Duty Truck,Engine & Drivetrain,21,52835.0,4,0
+2023-11-01,Heavy-Duty Truck,Filters & Fluids,53,5635.0,27,0
+2023-11-01,Heavy-Duty Truck,HVAC & Cooling,21,2250.0,12,0
+2023-11-01,Heavy-Duty Truck,Suspension & Axles,28,20540.0,5,0
+2023-11-01,Heavy-Duty Truck,Tyres & Wheels,7,4480.0,1,0
+2023-11-01,Medium-Duty Box Truck,Body & Exterior,5,275.0,3,0
+2023-11-01,Medium-Duty Box Truck,Braking System,26,10320.0,17,2
+2023-11-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,1,0
+2023-11-01,Medium-Duty Box Truck,Engine & Drivetrain,2,270.0,1,0
+2023-11-01,Medium-Duty Box Truck,Filters & Fluids,34,3765.0,17,0
+2023-11-01,Medium-Duty Box Truck,HVAC & Cooling,10,1020.0,5,1
+2023-11-01,Medium-Duty Box Truck,Suspension & Axles,1,95.0,1,0
+2023-11-01,Refrigerated Chiller Truck,Body & Exterior,2,620.0,1,0
+2023-11-01,Refrigerated Chiller Truck,Braking System,13,5180.0,6,0
+2023-11-01,Refrigerated Chiller Truck,Filters & Fluids,24,2460.0,12,0
+2023-11-01,Refrigerated Chiller Truck,HVAC & Cooling,10,750.0,4,0
+2023-11-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,2,0
+2023-11-01,Utility Pickup,Body & Exterior,4,985.0,3,0
+2023-11-01,Utility Pickup,Braking System,8,3280.0,5,0
+2023-11-01,Utility Pickup,Filters & Fluids,11,1260.0,6,0
+2023-11-01,Utility Pickup,HVAC & Cooling,8,4635.0,5,0
+2023-12-01,Delivery Van,Braking System,23,9460.0,9,0
+2023-12-01,Delivery Van,Electrical & Lighting,13,10140.0,1,0
+2023-12-01,Delivery Van,Engine & Drivetrain,7,13520.0,2,0
+2023-12-01,Delivery Van,Filters & Fluids,37,3595.0,19,0
+2023-12-01,Delivery Van,HVAC & Cooling,9,1620.0,6,0
+2023-12-01,Delivery Van,Suspension & Axles,9,7560.0,1,0
+2023-12-01,Heavy-Duty Truck,Body & Exterior,7,1150.0,4,0
+2023-12-01,Heavy-Duty Truck,Braking System,35,14060.0,18,1
+2023-12-01,Heavy-Duty Truck,Electrical & Lighting,1,1180.0,1,0
+2023-12-01,Heavy-Duty Truck,Engine & Drivetrain,7,945.0,5,1
+2023-12-01,Heavy-Duty Truck,Filters & Fluids,61,6395.0,31,0
+2023-12-01,Heavy-Duty Truck,HVAC & Cooling,22,2325.0,12,1
+2023-12-01,Heavy-Duty Truck,Suspension & Axles,2,190.0,1,0
+2023-12-01,Medium-Duty Box Truck,Body & Exterior,2,110.0,1,0
+2023-12-01,Medium-Duty Box Truck,Braking System,34,13680.0,16,0
+2023-12-01,Medium-Duty Box Truck,Engine & Drivetrain,7,4085.0,5,1
+2023-12-01,Medium-Duty Box Truck,Filters & Fluids,49,4525.0,23,0
+2023-12-01,Medium-Duty Box Truck,HVAC & Cooling,12,1170.0,5,1
+2023-12-01,Medium-Duty Box Truck,Suspension & Axles,17,12045.0,3,0
+2023-12-01,Refrigerated Chiller Truck,Braking System,18,7320.0,9,0
+2023-12-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,270.0,1,0
+2023-12-01,Refrigerated Chiller Truck,Filters & Fluids,12,1065.0,5,0
+2023-12-01,Refrigerated Chiller Truck,HVAC & Cooling,9,945.0,5,0
+2023-12-01,Refrigerated Chiller Truck,Suspension & Axles,6,570.0,4,0
+2023-12-01,Refrigerated Chiller Truck,Tyres & Wheels,8,5120.0,1,0
+2023-12-01,Utility Pickup,Body & Exterior,2,365.0,2,0
+2023-12-01,Utility Pickup,Braking System,3,1260.0,1,0
+2023-12-01,Utility Pickup,Engine & Drivetrain,4,2110.0,2,0
+2023-12-01,Utility Pickup,Filters & Fluids,15,1885.0,8,0
+2023-12-01,Utility Pickup,HVAC & Cooling,7,660.0,4,0
+2023-12-01,Utility Pickup,Suspension & Axles,1,95.0,1,0
+2024-01-01,Delivery Van,Body & Exterior,3,930.0,2,0
+2024-01-01,Delivery Van,Braking System,17,6780.0,9,1
+2024-01-01,Delivery Van,Electrical & Lighting,4,3010.0,4,0
+2024-01-01,Delivery Van,Engine & Drivetrain,4,540.0,2,0
+2024-01-01,Delivery Van,Filters & Fluids,41,4785.0,19,0
+2024-01-01,Delivery Van,HVAC & Cooling,14,1590.0,7,0
+2024-01-01,Delivery Van,Suspension & Axles,1,95.0,1,0
+2024-01-01,Heavy-Duty Truck,Body & Exterior,6,1095.0,5,0
+2024-01-01,Heavy-Duty Truck,Braking System,22,9000.0,11,0
+2024-01-01,Heavy-Duty Truck,Electrical & Lighting,5,2930.0,3,0
+2024-01-01,Heavy-Duty Truck,Engine & Drivetrain,3,405.0,2,0
+2024-01-01,Heavy-Duty Truck,Filters & Fluids,48,4345.0,23,0
+2024-01-01,Heavy-Duty Truck,HVAC & Cooling,29,5940.0,13,0
+2024-01-01,Heavy-Duty Truck,Suspension & Axles,1,95.0,1,0
+2024-01-01,Heavy-Duty Truck,Tyres & Wheels,7,9240.0,1,0
+2024-01-01,Medium-Duty Box Truck,Body & Exterior,6,330.0,4,0
+2024-01-01,Medium-Duty Box Truck,Braking System,28,11200.0,14,1
+2024-01-01,Medium-Duty Box Truck,Electrical & Lighting,6,2400.0,4,0
+2024-01-01,Medium-Duty Box Truck,Engine & Drivetrain,4,4970.0,2,0
+2024-01-01,Medium-Duty Box Truck,Filters & Fluids,29,3500.0,14,0
+2024-01-01,Medium-Duty Box Truck,HVAC & Cooling,26,1950.0,12,0
+2024-01-01,Refrigerated Chiller Truck,Body & Exterior,2,110.0,1,1
+2024-01-01,Refrigerated Chiller Truck,Braking System,10,3960.0,7,0
+2024-01-01,Refrigerated Chiller Truck,Electrical & Lighting,1,1450.0,1,0
+2024-01-01,Refrigerated Chiller Truck,Engine & Drivetrain,4,9400.0,2,0
+2024-01-01,Refrigerated Chiller Truck,Filters & Fluids,18,1705.0,11,0
+2024-01-01,Refrigerated Chiller Truck,HVAC & Cooling,12,900.0,5,0
+2024-01-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,1,0
+2024-01-01,Utility Pickup,Body & Exterior,4,220.0,2,0
+2024-01-01,Utility Pickup,Braking System,19,7460.0,10,0
+2024-01-01,Utility Pickup,Electrical & Lighting,1,1180.0,1,0
+2024-01-01,Utility Pickup,Engine & Drivetrain,2,270.0,2,0
+2024-01-01,Utility Pickup,Filters & Fluids,22,2225.0,10,0
+2024-01-01,Utility Pickup,HVAC & Cooling,6,990.0,4,0
+2024-02-01,Delivery Van,Body & Exterior,2,620.0,1,0
+2024-02-01,Delivery Van,Braking System,22,8760.0,10,1
+2024-02-01,Delivery Van,Electrical & Lighting,10,7800.0,1,0
+2024-02-01,Delivery Van,Filters & Fluids,29,2955.0,15,0
+2024-02-01,Delivery Van,HVAC & Cooling,13,1515.0,7,0
+2024-02-01,Heavy-Duty Truck,Body & Exterior,9,495.0,5,0
+2024-02-01,Heavy-Duty Truck,Braking System,44,17720.0,22,0
+2024-02-01,Heavy-Duty Truck,Electrical & Lighting,14,8560.0,4,1
+2024-02-01,Heavy-Duty Truck,Engine & Drivetrain,2,270.0,1,0
+2024-02-01,Heavy-Duty Truck,Filters & Fluids,60,6205.0,26,0
+2024-02-01,Heavy-Duty Truck,HVAC & Cooling,16,1470.0,7,0
+2024-02-01,Heavy-Duty Truck,Suspension & Axles,1,95.0,1,1
+2024-02-01,Heavy-Duty Truck,Tyres & Wheels,14,18480.0,1,0
+2024-02-01,Medium-Duty Box Truck,Body & Exterior,2,110.0,1,0
+2024-02-01,Medium-Duty Box Truck,Braking System,20,8000.0,12,0
+2024-02-01,Medium-Duty Box Truck,Electrical & Lighting,4,760.0,2,0
+2024-02-01,Medium-Duty Box Truck,Filters & Fluids,49,5640.0,22,0
+2024-02-01,Medium-Duty Box Truck,HVAC & Cooling,12,900.0,5,0
+2024-02-01,Medium-Duty Box Truck,Suspension & Axles,4,380.0,3,0
+2024-02-01,Refrigerated Chiller Truck,Body & Exterior,1,310.0,1,0
+2024-02-01,Refrigerated Chiller Truck,Braking System,11,4580.0,7,0
+2024-02-01,Refrigerated Chiller Truck,Engine & Drivetrain,13,29420.0,3,0
+2024-02-01,Refrigerated Chiller Truck,Filters & Fluids,15,1555.0,10,1
+2024-02-01,Refrigerated Chiller Truck,HVAC & Cooling,30,14015.0,10,1
+2024-02-01,Utility Pickup,Braking System,8,3080.0,4,0
+2024-02-01,Utility Pickup,Electrical & Lighting,3,570.0,2,0
+2024-02-01,Utility Pickup,Filters & Fluids,17,1755.0,7,0
+2024-02-01,Utility Pickup,HVAC & Cooling,10,885.0,4,0
+2024-03-01,Delivery Van,Body & Exterior,2,110.0,1,0
+2024-03-01,Delivery Van,Braking System,26,10040.0,11,0
+2024-03-01,Delivery Van,Engine & Drivetrain,3,3405.0,3,0
+2024-03-01,Delivery Van,Filters & Fluids,48,5170.0,26,1
+2024-03-01,Delivery Van,HVAC & Cooling,24,1800.0,10,0
+2024-03-01,Delivery Van,Suspension & Axles,2,190.0,2,0
+2024-03-01,Heavy-Duty Truck,Body & Exterior,4,220.0,3,0
+2024-03-01,Heavy-Duty Truck,Braking System,46,18680.0,21,0
+2024-03-01,Heavy-Duty Truck,Electrical & Lighting,4,760.0,3,0
+2024-03-01,Heavy-Duty Truck,Engine & Drivetrain,7,5375.0,4,3
+2024-03-01,Heavy-Duty Truck,Filters & Fluids,35,3775.0,20,0
+2024-03-01,Heavy-Duty Truck,HVAC & Cooling,35,3435.0,18,0
+2024-03-01,Heavy-Duty Truck,Suspension & Axles,1,95.0,1,0
+2024-03-01,Heavy-Duty Truck,Tyres & Wheels,13,8320.0,1,0
+2024-03-01,Medium-Duty Box Truck,Body & Exterior,1,310.0,1,0
+2024-03-01,Medium-Duty Box Truck,Braking System,36,14400.0,17,0
+2024-03-01,Medium-Duty Box Truck,Engine & Drivetrain,2,4700.0,1,0
+2024-03-01,Medium-Duty Box Truck,Filters & Fluids,38,4520.0,19,0
+2024-03-01,Medium-Duty Box Truck,HVAC & Cooling,16,1200.0,6,0
+2024-03-01,Medium-Duty Box Truck,Suspension & Axles,4,1550.0,3,0
+2024-03-01,Refrigerated Chiller Truck,Braking System,13,5100.0,7,1
+2024-03-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,1840.0,1,0
+2024-03-01,Refrigerated Chiller Truck,Filters & Fluids,22,2225.0,9,2
+2024-03-01,Refrigerated Chiller Truck,HVAC & Cooling,23,16355.0,6,0
+2024-03-01,Refrigerated Chiller Truck,Suspension & Axles,1,95.0,1,0
+2024-03-01,Utility Pickup,Braking System,11,4500.0,6,0
+2024-03-01,Utility Pickup,Electrical & Lighting,1,190.0,1,0
+2024-03-01,Utility Pickup,Engine & Drivetrain,2,270.0,1,0
+2024-03-01,Utility Pickup,Filters & Fluids,19,1745.0,8,0
+2024-03-01,Utility Pickup,HVAC & Cooling,10,750.0,6,0
+2024-03-01,Utility Pickup,Suspension & Axles,2,190.0,1,0
+2024-04-01,Delivery Van,Body & Exterior,6,1095.0,4,0
+2024-04-01,Delivery Van,Braking System,31,12140.0,13,2
+2024-04-01,Delivery Van,Electrical & Lighting,1,190.0,1,0
+2024-04-01,Delivery Van,Engine & Drivetrain,1,135.0,1,0
+2024-04-01,Delivery Van,Filters & Fluids,34,3965.0,16,0
+2024-04-01,Delivery Van,HVAC & Cooling,19,1560.0,8,1
+2024-04-01,Delivery Van,Suspension & Axles,1,95.0,1,0
+2024-04-01,Delivery Van,Tyres & Wheels,7,4480.0,1,0
+2024-04-01,Heavy-Duty Truck,Body & Exterior,3,675.0,3,0
+2024-04-01,Heavy-Duty Truck,Braking System,39,15380.0,17,0
+2024-04-01,Heavy-Duty Truck,Electrical & Lighting,4,760.0,3,0
+2024-04-01,Heavy-Duty Truck,Engine & Drivetrain,4,540.0,2,0
+2024-04-01,Heavy-Duty Truck,Filters & Fluids,58,6330.0,30,0
+2024-04-01,Heavy-Duty Truck,HVAC & Cooling,14,1320.0,8,0
+2024-04-01,Heavy-Duty Truck,Suspension & Axles,3,1455.0,2,0
+2024-04-01,Heavy-Duty Truck,Tyres & Wheels,13,8320.0,1,0
+2024-04-01,Medium-Duty Box Truck,Body & Exterior,7,1660.0,4,0
+2024-04-01,Medium-Duty Box Truck,Braking System,25,10260.0,11,0
+2024-04-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,2,0
+2024-04-01,Medium-Duty Box Truck,Engine & Drivetrain,2,270.0,1,0
+2024-04-01,Medium-Duty Box Truck,Filters & Fluids,42,4440.0,19,0
+2024-04-01,Medium-Duty Box Truck,HVAC & Cooling,11,1230.0,6,0
+2024-04-01,Medium-Duty Box Truck,Suspension & Axles,5,1645.0,3,0
+2024-04-01,Refrigerated Chiller Truck,Body & Exterior,1,310.0,1,0
+2024-04-01,Refrigerated Chiller Truck,Braking System,9,3540.0,3,0
+2024-04-01,Refrigerated Chiller Truck,Engine & Drivetrain,1,135.0,1,0
+2024-04-01,Refrigerated Chiller Truck,Filters & Fluids,22,2625.0,11,0
+2024-04-01,Refrigerated Chiller Truck,HVAC & Cooling,14,8365.0,5,1
+2024-04-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,2,0
+2024-04-01,Utility Pickup,Braking System,11,4380.0,7,0
+2024-04-01,Utility Pickup,Electrical & Lighting,1,190.0,1,0
+2024-04-01,Utility Pickup,Filters & Fluids,22,2170.0,9,0
+2024-04-01,Utility Pickup,HVAC & Cooling,6,450.0,3,0
+2024-04-01,Utility Pickup,Suspension & Axles,2,775.0,2,1
+2024-05-01,Delivery Van,Body & Exterior,1,55.0,1,0
+2024-05-01,Delivery Van,Braking System,33,13300.0,16,1
+2024-05-01,Delivery Van,Electrical & Lighting,9,5840.0,2,0
+2024-05-01,Delivery Van,Engine & Drivetrain,3,405.0,2,0
+2024-05-01,Delivery Van,Filters & Fluids,45,5270.0,22,0
+2024-05-01,Delivery Van,HVAC & Cooling,9,675.0,6,0
+2024-05-01,Delivery Van,Tyres & Wheels,5,3200.0,1,0
+2024-05-01,Heavy-Duty Truck,Braking System,29,11660.0,16,1
+2024-05-01,Heavy-Duty Truck,Electrical & Lighting,4,3280.0,2,1
+2024-05-01,Heavy-Duty Truck,Engine & Drivetrain,1,135.0,1,0
+2024-05-01,Heavy-Duty Truck,Filters & Fluids,64,6855.0,29,0
+2024-05-01,Heavy-Duty Truck,HVAC & Cooling,33,4290.0,18,0
+2024-05-01,Heavy-Duty Truck,Suspension & Axles,3,285.0,2,0
+2024-05-01,Heavy-Duty Truck,Tyres & Wheels,9,5760.0,1,0
+2024-05-01,Medium-Duty Box Truck,Braking System,21,8420.0,12,0
+2024-05-01,Medium-Duty Box Truck,Electrical & Lighting,1,190.0,1,0
+2024-05-01,Medium-Duty Box Truck,Engine & Drivetrain,19,45320.0,4,0
+2024-05-01,Medium-Duty Box Truck,Filters & Fluids,52,5635.0,25,0
+2024-05-01,Medium-Duty Box Truck,HVAC & Cooling,29,2175.0,12,0
+2024-05-01,Medium-Duty Box Truck,Suspension & Axles,2,1360.0,1,0
+2024-05-01,Refrigerated Chiller Truck,Body & Exterior,1,55.0,1,0
+2024-05-01,Refrigerated Chiller Truck,Braking System,22,9040.0,10,0
+2024-05-01,Refrigerated Chiller Truck,Electrical & Lighting,1,1450.0,1,0
+2024-05-01,Refrigerated Chiller Truck,Filters & Fluids,26,2805.0,14,0
+2024-05-01,Refrigerated Chiller Truck,HVAC & Cooling,32,28525.0,6,1
+2024-05-01,Refrigerated Chiller Truck,Suspension & Axles,3,285.0,2,0
+2024-05-01,Utility Pickup,Body & Exterior,2,110.0,1,0
+2024-05-01,Utility Pickup,Braking System,9,3540.0,3,0
+2024-05-01,Utility Pickup,Filters & Fluids,27,3040.0,14,0
+2024-05-01,Utility Pickup,HVAC & Cooling,7,1200.0,4,0
+2024-06-01,Delivery Van,Body & Exterior,4,1240.0,2,0
+2024-06-01,Delivery Van,Braking System,27,10740.0,13,1
+2024-06-01,Delivery Van,Engine & Drivetrain,3,405.0,2,0
+2024-06-01,Delivery Van,Filters & Fluids,48,5045.0,25,0
+2024-06-01,Delivery Van,HVAC & Cooling,15,1125.0,9,0
+2024-06-01,Delivery Van,Suspension & Axles,12,8590.0,2,0
+2024-06-01,Delivery Van,Tyres & Wheels,9,5760.0,1,0
+2024-06-01,Heavy-Duty Truck,Body & Exterior,3,165.0,3,0
+2024-06-01,Heavy-Duty Truck,Braking System,34,13720.0,17,1
+2024-06-01,Heavy-Duty Truck,Electrical & Lighting,12,10450.0,5,0
+2024-06-01,Heavy-Duty Truck,Filters & Fluids,60,6930.0,34,1
+2024-06-01,Heavy-Duty Truck,HVAC & Cooling,43,3630.0,22,0
+2024-06-01,Heavy-Duty Truck,Suspension & Axles,10,8400.0,1,0
+2024-06-01,Medium-Duty Box Truck,Body & Exterior,2,620.0,1,0
+2024-06-01,Medium-Duty Box Truck,Braking System,38,15160.0,19,1
+2024-06-01,Medium-Duty Box Truck,Engine & Drivetrain,5,675.0,3,0
+2024-06-01,Medium-Duty Box Truck,Filters & Fluids,70,7790.0,31,1
+2024-06-01,Medium-Duty Box Truck,HVAC & Cooling,14,1050.0,6,0
+2024-06-01,Medium-Duty Box Truck,Tyres & Wheels,14,18480.0,1,0
+2024-06-01,Refrigerated Chiller Truck,Braking System,11,4460.0,5,0
+2024-06-01,Refrigerated Chiller Truck,Electrical & Lighting,2,380.0,1,0
+2024-06-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,270.0,1,0
+2024-06-01,Refrigerated Chiller Truck,Filters & Fluids,23,2825.0,11,1
+2024-06-01,Refrigerated Chiller Truck,HVAC & Cooling,7,930.0,5,0
+2024-06-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,1,0
+2024-06-01,Utility Pickup,Body & Exterior,4,475.0,3,0
+2024-06-01,Utility Pickup,Braking System,10,3880.0,4,0
+2024-06-01,Utility Pickup,Electrical & Lighting,3,3090.0,2,0
+2024-06-01,Utility Pickup,Filters & Fluids,15,1775.0,7,0
+2024-06-01,Utility Pickup,HVAC & Cooling,9,675.0,4,1
+2024-06-01,Utility Pickup,Suspension & Axles,1,95.0,1,0
+2024-07-01,Delivery Van,Body & Exterior,2,365.0,2,0
+2024-07-01,Delivery Van,Braking System,25,10140.0,13,0
+2024-07-01,Delivery Van,Electrical & Lighting,2,380.0,1,0
+2024-07-01,Delivery Van,Engine & Drivetrain,1,2350.0,1,0
+2024-07-01,Delivery Van,Filters & Fluids,46,4695.0,23,0
+2024-07-01,Delivery Van,HVAC & Cooling,23,1725.0,10,0
+2024-07-01,Delivery Van,Suspension & Axles,3,285.0,2,0
+2024-07-01,Heavy-Duty Truck,Body & Exterior,7,1150.0,5,0
+2024-07-01,Heavy-Duty Truck,Braking System,57,23220.0,26,2
+2024-07-01,Heavy-Duty Truck,Electrical & Lighting,2,380.0,1,0
+2024-07-01,Heavy-Duty Truck,Engine & Drivetrain,4,4970.0,3,1
+2024-07-01,Heavy-Duty Truck,Filters & Fluids,84,9470.0,42,0
+2024-07-01,Heavy-Duty Truck,HVAC & Cooling,27,2970.0,13,0
+2024-07-01,Heavy-Duty Truck,Suspension & Axles,1,95.0,1,0
+2024-07-01,Medium-Duty Box Truck,Body & Exterior,3,930.0,2,0
+2024-07-01,Medium-Duty Box Truck,Braking System,34,13800.0,17,0
+2024-07-01,Medium-Duty Box Truck,Electrical & Lighting,5,4730.0,3,0
+2024-07-01,Medium-Duty Box Truck,Engine & Drivetrain,4,4970.0,2,0
+2024-07-01,Medium-Duty Box Truck,Filters & Fluids,36,4645.0,17,0
+2024-07-01,Medium-Duty Box Truck,HVAC & Cooling,10,750.0,5,0
+2024-07-01,Medium-Duty Box Truck,Suspension & Axles,3,285.0,2,0
+2024-07-01,Refrigerated Chiller Truck,Body & Exterior,3,165.0,2,0
+2024-07-01,Refrigerated Chiller Truck,Braking System,20,7960.0,10,0
+2024-07-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,270.0,2,0
+2024-07-01,Refrigerated Chiller Truck,Filters & Fluids,35,4025.0,19,1
+2024-07-01,Refrigerated Chiller Truck,HVAC & Cooling,20,14040.0,4,0
+2024-07-01,Refrigerated Chiller Truck,Suspension & Axles,3,285.0,3,0
+2024-07-01,Utility Pickup,Braking System,10,4040.0,4,1
+2024-07-01,Utility Pickup,Electrical & Lighting,1,190.0,1,0
+2024-07-01,Utility Pickup,Engine & Drivetrain,1,135.0,1,0
+2024-07-01,Utility Pickup,Filters & Fluids,21,2595.0,11,0
+2024-07-01,Utility Pickup,HVAC & Cooling,20,2040.0,10,1
+2024-08-01,Delivery Van,Body & Exterior,5,785.0,3,0
+2024-08-01,Delivery Van,Braking System,14,5480.0,8,0
+2024-08-01,Delivery Van,Electrical & Lighting,5,3900.0,1,0
+2024-08-01,Delivery Van,Engine & Drivetrain,3,1975.0,2,0
+2024-08-01,Delivery Van,Filters & Fluids,58,6190.0,25,0
+2024-08-01,Delivery Van,HVAC & Cooling,16,5640.0,10,0
+2024-08-01,Delivery Van,Suspension & Axles,2,190.0,2,1
+2024-08-01,Heavy-Duty Truck,Body & Exterior,5,1295.0,4,0
+2024-08-01,Heavy-Duty Truck,Braking System,40,15960.0,20,0
+2024-08-01,Heavy-Duty Truck,Engine & Drivetrain,2,270.0,1,1
+2024-08-01,Heavy-Duty Truck,Filters & Fluids,58,6335.0,29,0
+2024-08-01,Heavy-Duty Truck,HVAC & Cooling,37,3045.0,19,0
+2024-08-01,Heavy-Duty Truck,Suspension & Axles,16,12695.0,3,1
+2024-08-01,Medium-Duty Box Truck,Body & Exterior,7,895.0,4,0
+2024-08-01,Medium-Duty Box Truck,Braking System,17,6860.0,8,1
+2024-08-01,Medium-Duty Box Truck,Electrical & Lighting,6,4680.0,1,0
+2024-08-01,Medium-Duty Box Truck,Engine & Drivetrain,4,540.0,2,0
+2024-08-01,Medium-Duty Box Truck,Filters & Fluids,41,5025.0,19,0
+2024-08-01,Medium-Duty Box Truck,HVAC & Cooling,27,8010.0,17,0
+2024-08-01,Medium-Duty Box Truck,Tyres & Wheels,15,12320.0,2,0
+2024-08-01,Refrigerated Chiller Truck,Body & Exterior,8,1970.0,5,0
+2024-08-01,Refrigerated Chiller Truck,Braking System,12,4800.0,8,1
+2024-08-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,1840.0,1,0
+2024-08-01,Refrigerated Chiller Truck,Filters & Fluids,25,2880.0,14,0
+2024-08-01,Refrigerated Chiller Truck,HVAC & Cooling,21,10980.0,7,1
+2024-08-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,1,0
+2024-08-01,Refrigerated Chiller Truck,Tyres & Wheels,6,7920.0,1,0
+2024-08-01,Utility Pickup,Braking System,18,7360.0,10,0
+2024-08-01,Utility Pickup,Engine & Drivetrain,2,270.0,1,0
+2024-08-01,Utility Pickup,Filters & Fluids,11,1205.0,7,0
+2024-08-01,Utility Pickup,HVAC & Cooling,8,870.0,4,0
+2024-09-01,Delivery Van,Braking System,12,4760.0,6,0
+2024-09-01,Delivery Van,Electrical & Lighting,9,6430.0,2,0
+2024-09-01,Delivery Van,Engine & Drivetrain,1,135.0,1,0
+2024-09-01,Delivery Van,Filters & Fluids,36,3935.0,19,1
+2024-09-01,Delivery Van,HVAC & Cooling,20,1905.0,10,0
+2024-09-01,Heavy-Duty Truck,Body & Exterior,7,895.0,5,0
+2024-09-01,Heavy-Duty Truck,Braking System,37,14500.0,19,0
+2024-09-01,Heavy-Duty Truck,Electrical & Lighting,15,11320.0,3,0
+2024-09-01,Heavy-Duty Truck,Engine & Drivetrain,9,2785.0,6,2
+2024-09-01,Heavy-Duty Truck,Filters & Fluids,61,7120.0,31,1
+2024-09-01,Heavy-Duty Truck,HVAC & Cooling,49,4215.0,24,1
+2024-09-01,Heavy-Duty Truck,Suspension & Axles,5,475.0,3,0
+2024-09-01,Heavy-Duty Truck,Tyres & Wheels,6,3840.0,1,0
+2024-09-01,Medium-Duty Box Truck,Braking System,24,10040.0,11,0
+2024-09-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,2,0
+2024-09-01,Medium-Duty Box Truck,Engine & Drivetrain,1,135.0,1,0
+2024-09-01,Medium-Duty Box Truck,Filters & Fluids,56,6320.0,27,1
+2024-09-01,Medium-Duty Box Truck,HVAC & Cooling,25,2145.0,11,0
+2024-09-01,Refrigerated Chiller Truck,Body & Exterior,2,110.0,2,0
+2024-09-01,Refrigerated Chiller Truck,Braking System,17,6860.0,9,0
+2024-09-01,Refrigerated Chiller Truck,Filters & Fluids,12,1600.0,6,0
+2024-09-01,Refrigerated Chiller Truck,HVAC & Cooling,8,600.0,4,0
+2024-09-01,Refrigerated Chiller Truck,Tyres & Wheels,26,31600.0,3,0
+2024-09-01,Utility Pickup,Body & Exterior,1,55.0,1,0
+2024-09-01,Utility Pickup,Braking System,7,2740.0,3,0
+2024-09-01,Utility Pickup,Engine & Drivetrain,2,270.0,1,0
+2024-09-01,Utility Pickup,Filters & Fluids,26,2680.0,13,0
+2024-09-01,Utility Pickup,HVAC & Cooling,5,645.0,3,0
+2024-09-01,Utility Pickup,Suspension & Axles,1,95.0,1,0
+2024-10-01,Delivery Van,Body & Exterior,3,930.0,2,0
+2024-10-01,Delivery Van,Braking System,25,10020.0,13,1
+2024-10-01,Delivery Van,Electrical & Lighting,5,4460.0,3,0
+2024-10-01,Delivery Van,Engine & Drivetrain,2,1055.0,2,0
+2024-10-01,Delivery Van,Filters & Fluids,20,2220.0,11,1
+2024-10-01,Delivery Van,HVAC & Cooling,14,1050.0,7,0
+2024-10-01,Delivery Van,Suspension & Axles,2,190.0,1,0
+2024-10-01,Delivery Van,Tyres & Wheels,12,7680.0,1,0
+2024-10-01,Heavy-Duty Truck,Body & Exterior,2,365.0,2,0
+2024-10-01,Heavy-Duty Truck,Braking System,40,16440.0,21,1
+2024-10-01,Heavy-Duty Truck,Electrical & Lighting,3,4080.0,2,0
+2024-10-01,Heavy-Duty Truck,Engine & Drivetrain,18,35125.0,5,0
+2024-10-01,Heavy-Duty Truck,Filters & Fluids,59,6475.0,28,1
+2024-10-01,Heavy-Duty Truck,HVAC & Cooling,16,4830.0,10,0
+2024-10-01,Heavy-Duty Truck,Suspension & Axles,5,1060.0,3,1
+2024-10-01,Heavy-Duty Truck,Tyres & Wheels,9,5760.0,1,0
+2024-10-01,Medium-Duty Box Truck,Body & Exterior,5,275.0,3,0
+2024-10-01,Medium-Duty Box Truck,Braking System,19,7420.0,10,0
+2024-10-01,Medium-Duty Box Truck,Electrical & Lighting,1,190.0,1,0
+2024-10-01,Medium-Duty Box Truck,Engine & Drivetrain,7,1730.0,4,0
+2024-10-01,Medium-Duty Box Truck,Filters & Fluids,40,4075.0,20,1
+2024-10-01,Medium-Duty Box Truck,HVAC & Cooling,24,1935.0,12,0
+2024-10-01,Medium-Duty Box Truck,Suspension & Axles,1,95.0,1,0
+2024-10-01,Refrigerated Chiller Truck,Braking System,17,6580.0,6,0
+2024-10-01,Refrigerated Chiller Truck,Electrical & Lighting,3,1830.0,2,0
+2024-10-01,Refrigerated Chiller Truck,Engine & Drivetrain,3,2620.0,2,1
+2024-10-01,Refrigerated Chiller Truck,Filters & Fluids,6,640.0,5,0
+2024-10-01,Refrigerated Chiller Truck,HVAC & Cooling,18,16610.0,7,0
+2024-10-01,Utility Pickup,Braking System,21,8460.0,9,0
+2024-10-01,Utility Pickup,Electrical & Lighting,2,2360.0,1,0
+2024-10-01,Utility Pickup,Engine & Drivetrain,8,16170.0,2,0
+2024-10-01,Utility Pickup,Filters & Fluids,15,1780.0,7,0
+2024-10-01,Utility Pickup,HVAC & Cooling,7,525.0,4,0
+2024-10-01,Utility Pickup,Suspension & Axles,3,2040.0,2,0
+2024-10-01,Utility Pickup,Tyres & Wheels,14,18480.0,1,0
+2024-11-01,Delivery Van,Body & Exterior,8,695.0,5,0
+2024-11-01,Delivery Van,Braking System,29,11500.0,13,0
+2024-11-01,Delivery Van,Electrical & Lighting,2,380.0,1,0
+2024-11-01,Delivery Van,Engine & Drivetrain,7,4730.0,5,1
+2024-11-01,Delivery Van,Filters & Fluids,31,3250.0,15,0
+2024-11-01,Delivery Van,HVAC & Cooling,28,2910.0,12,0
+2024-11-01,Delivery Van,Suspension & Axles,2,775.0,2,0
+2024-11-01,Heavy-Duty Truck,Body & Exterior,4,985.0,3,0
+2024-11-01,Heavy-Duty Truck,Braking System,45,17860.0,25,0
+2024-11-01,Heavy-Duty Truck,Electrical & Lighting,11,7400.0,2,0
+2024-11-01,Heavy-Duty Truck,Filters & Fluids,57,6380.0,29,1
+2024-11-01,Heavy-Duty Truck,HVAC & Cooling,14,1725.0,8,0
+2024-11-01,Heavy-Duty Truck,Suspension & Axles,8,760.0,5,0
+2024-11-01,Heavy-Duty Truck,Tyres & Wheels,8,10560.0,1,0
+2024-11-01,Medium-Duty Box Truck,Body & Exterior,2,365.0,2,0
+2024-11-01,Medium-Duty Box Truck,Braking System,32,13000.0,15,0
+2024-11-01,Medium-Duty Box Truck,Electrical & Lighting,2,2360.0,1,0
+2024-11-01,Medium-Duty Box Truck,Engine & Drivetrain,4,3540.0,3,0
+2024-11-01,Medium-Duty Box Truck,Filters & Fluids,28,3015.0,15,0
+2024-11-01,Medium-Duty Box Truck,HVAC & Cooling,13,1110.0,8,0
+2024-11-01,Medium-Duty Box Truck,Suspension & Axles,4,380.0,2,0
+2024-11-01,Refrigerated Chiller Truck,Body & Exterior,3,675.0,2,0
+2024-11-01,Refrigerated Chiller Truck,Braking System,6,2360.0,3,0
+2024-11-01,Refrigerated Chiller Truck,Filters & Fluids,18,2160.0,8,0
+2024-11-01,Refrigerated Chiller Truck,HVAC & Cooling,13,975.0,5,0
+2024-11-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,1,0
+2024-11-01,Refrigerated Chiller Truck,Tyres & Wheels,13,17160.0,1,0
+2024-11-01,Utility Pickup,Body & Exterior,3,675.0,2,0
+2024-11-01,Utility Pickup,Braking System,4,1640.0,3,0
+2024-11-01,Utility Pickup,Electrical & Lighting,2,380.0,1,0
+2024-11-01,Utility Pickup,Engine & Drivetrain,2,270.0,1,0
+2024-11-01,Utility Pickup,Filters & Fluids,16,1630.0,9,0
+2024-11-01,Utility Pickup,HVAC & Cooling,13,1245.0,6,0
+2024-12-01,Delivery Van,Body & Exterior,7,640.0,4,0
+2024-12-01,Delivery Van,Braking System,13,5140.0,10,2
+2024-12-01,Delivery Van,Electrical & Lighting,10,6620.0,2,0
+2024-12-01,Delivery Van,Engine & Drivetrain,1,135.0,1,0
+2024-12-01,Delivery Van,Filters & Fluids,19,2215.0,9,0
+2024-12-01,Delivery Van,HVAC & Cooling,13,975.0,6,0
+2024-12-01,Delivery Van,Suspension & Axles,3,285.0,2,0
+2024-12-01,Heavy-Duty Truck,Body & Exterior,6,840.0,4,0
+2024-12-01,Heavy-Duty Truck,Braking System,42,16760.0,19,0
+2024-12-01,Heavy-Duty Truck,Electrical & Lighting,12,7000.0,3,0
+2024-12-01,Heavy-Duty Truck,Engine & Drivetrain,10,18955.0,3,0
+2024-12-01,Heavy-Duty Truck,Filters & Fluids,62,5790.0,28,0
+2024-12-01,Heavy-Duty Truck,HVAC & Cooling,10,885.0,8,0
+2024-12-01,Heavy-Duty Truck,Suspension & Axles,1,95.0,1,0
+2024-12-01,Medium-Duty Box Truck,Body & Exterior,5,785.0,3,0
+2024-12-01,Medium-Duty Box Truck,Braking System,27,10700.0,13,0
+2024-12-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,1,0
+2024-12-01,Medium-Duty Box Truck,Engine & Drivetrain,16,37370.0,2,0
+2024-12-01,Medium-Duty Box Truck,Filters & Fluids,60,6355.0,29,0
+2024-12-01,Medium-Duty Box Truck,HVAC & Cooling,19,1425.0,10,0
+2024-12-01,Medium-Duty Box Truck,Tyres & Wheels,6,3840.0,1,0
+2024-12-01,Refrigerated Chiller Truck,Body & Exterior,1,310.0,1,1
+2024-12-01,Refrigerated Chiller Truck,Braking System,21,8700.0,10,0
+2024-12-01,Refrigerated Chiller Truck,Electrical & Lighting,1,190.0,1,0
+2024-12-01,Refrigerated Chiller Truck,Engine & Drivetrain,1,135.0,1,0
+2024-12-01,Refrigerated Chiller Truck,Filters & Fluids,27,2780.0,16,0
+2024-12-01,Refrigerated Chiller Truck,HVAC & Cooling,15,1395.0,6,0
+2024-12-01,Refrigerated Chiller Truck,Suspension & Axles,4,380.0,2,0
+2024-12-01,Utility Pickup,Braking System,9,3580.0,5,0
+2024-12-01,Utility Pickup,Filters & Fluids,6,800.0,5,0
+2024-12-01,Utility Pickup,HVAC & Cooling,5,375.0,4,0
+2024-12-01,Utility Pickup,Suspension & Axles,1,95.0,1,0
+2025-01-01,Delivery Van,Body & Exterior,2,110.0,1,0
+2025-01-01,Delivery Van,Braking System,32,12880.0,13,1
+2025-01-01,Delivery Van,Engine & Drivetrain,3,2620.0,2,0
+2025-01-01,Delivery Van,Filters & Fluids,31,3355.0,16,0
+2025-01-01,Delivery Van,HVAC & Cooling,17,1275.0,8,0
+2025-01-01,Heavy-Duty Truck,Body & Exterior,2,110.0,2,0
+2025-01-01,Heavy-Duty Truck,Braking System,40,16280.0,17,0
+2025-01-01,Heavy-Duty Truck,Electrical & Lighting,13,8370.0,3,0
+2025-01-01,Heavy-Duty Truck,Engine & Drivetrain,1,2350.0,1,0
+2025-01-01,Heavy-Duty Truck,Filters & Fluids,50,5200.0,25,0
+2025-01-01,Heavy-Duty Truck,HVAC & Cooling,17,3630.0,10,0
+2025-01-01,Heavy-Duty Truck,Suspension & Axles,2,190.0,1,0
+2025-01-01,Medium-Duty Box Truck,Body & Exterior,5,1040.0,3,0
+2025-01-01,Medium-Duty Box Truck,Braking System,33,12780.0,17,0
+2025-01-01,Medium-Duty Box Truck,Electrical & Lighting,9,7020.0,1,0
+2025-01-01,Medium-Duty Box Truck,Engine & Drivetrain,3,2620.0,2,0
+2025-01-01,Medium-Duty Box Truck,Filters & Fluids,48,5580.0,24,0
+2025-01-01,Medium-Duty Box Truck,HVAC & Cooling,23,1725.0,13,0
+2025-01-01,Medium-Duty Box Truck,Suspension & Axles,8,5230.0,2,0
+2025-01-01,Refrigerated Chiller Truck,Body & Exterior,3,165.0,2,0
+2025-01-01,Refrigerated Chiller Truck,Braking System,21,8580.0,10,1
+2025-01-01,Refrigerated Chiller Truck,Engine & Drivetrain,1,135.0,1,0
+2025-01-01,Refrigerated Chiller Truck,Filters & Fluids,14,1730.0,7,0
+2025-01-01,Refrigerated Chiller Truck,HVAC & Cooling,15,9890.0,5,1
+2025-01-01,Utility Pickup,Body & Exterior,2,620.0,1,0
+2025-01-01,Utility Pickup,Braking System,7,2780.0,4,0
+2025-01-01,Utility Pickup,Engine & Drivetrain,1,135.0,1,0
+2025-01-01,Utility Pickup,Filters & Fluids,17,1905.0,8,0
+2025-01-01,Utility Pickup,HVAC & Cooling,3,495.0,2,0
+2025-01-01,Utility Pickup,Suspension & Axles,1,95.0,1,0
+2025-02-01,Delivery Van,Body & Exterior,3,675.0,2,0
+2025-02-01,Delivery Van,Braking System,17,6900.0,9,0
+2025-02-01,Delivery Van,Electrical & Lighting,13,8960.0,3,0
+2025-02-01,Delivery Van,Engine & Drivetrain,8,21200.0,1,0
+2025-02-01,Delivery Van,Filters & Fluids,36,3430.0,18,0
+2025-02-01,Delivery Van,HVAC & Cooling,15,1395.0,8,0
+2025-02-01,Heavy-Duty Truck,Body & Exterior,13,1225.0,10,0
+2025-02-01,Heavy-Duty Truck,Braking System,50,20520.0,27,1
+2025-02-01,Heavy-Duty Truck,Electrical & Lighting,17,11490.0,3,0
+2025-02-01,Heavy-Duty Truck,Engine & Drivetrain,13,24390.0,3,0
+2025-02-01,Heavy-Duty Truck,Filters & Fluids,75,7475.0,37,1
+2025-02-01,Heavy-Duty Truck,HVAC & Cooling,20,8160.0,12,0
+2025-02-01,Heavy-Duty Truck,Suspension & Axles,3,285.0,2,0
+2025-02-01,Heavy-Duty Truck,Tyres & Wheels,5,3200.0,1,0
+2025-02-01,Medium-Duty Box Truck,Body & Exterior,3,420.0,3,0
+2025-02-01,Medium-Duty Box Truck,Braking System,51,20580.0,24,2
+2025-02-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,2,0
+2025-02-01,Medium-Duty Box Truck,Engine & Drivetrain,5,5105.0,3,0
+2025-02-01,Medium-Duty Box Truck,Filters & Fluids,36,3785.0,19,0
+2025-02-01,Medium-Duty Box Truck,HVAC & Cooling,23,5760.0,13,1
+2025-02-01,Medium-Duty Box Truck,Suspension & Axles,1,95.0,1,0
+2025-02-01,Refrigerated Chiller Truck,Braking System,13,5260.0,8,1
+2025-02-01,Refrigerated Chiller Truck,Electrical & Lighting,3,1560.0,2,0
+2025-02-01,Refrigerated Chiller Truck,Engine & Drivetrain,2,4700.0,1,0
+2025-02-01,Refrigerated Chiller Truck,Filters & Fluids,21,2195.0,9,0
+2025-02-01,Refrigerated Chiller Truck,HVAC & Cooling,20,18490.0,5,0
+2025-02-01,Refrigerated Chiller Truck,Suspension & Axles,3,285.0,2,0
+2025-02-01,Utility Pickup,Body & Exterior,4,220.0,3,0
+2025-02-01,Utility Pickup,Braking System,13,5340.0,6,0
+2025-02-01,Utility Pickup,Electrical & Lighting,6,3120.0,3,0
+2025-02-01,Utility Pickup,Engine & Drivetrain,1,2350.0,1,1
+2025-02-01,Utility Pickup,Filters & Fluids,12,1100.0,5,0
+2025-02-01,Utility Pickup,HVAC & Cooling,1,75.0,1,0
+2025-02-01,Utility Pickup,Suspension & Axles,2,190.0,1,0
+2025-03-01,Delivery Van,Body & Exterior,1,55.0,1,0
+2025-03-01,Delivery Van,Braking System,36,14440.0,17,0
+2025-03-01,Delivery Van,Engine & Drivetrain,5,675.0,3,0
+2025-03-01,Delivery Van,Filters & Fluids,33,3600.0,15,1
+2025-03-01,Delivery Van,HVAC & Cooling,14,3270.0,10,0
+2025-03-01,Delivery Van,Suspension & Axles,5,2230.0,4,0
+2025-03-01,Delivery Van,Tyres & Wheels,6,7920.0,1,0
+2025-03-01,Heavy-Duty Truck,Body & Exterior,3,930.0,2,0
+2025-03-01,Heavy-Duty Truck,Braking System,34,13600.0,19,1
+2025-03-01,Heavy-Duty Truck,Electrical & Lighting,5,950.0,3,0
+2025-03-01,Heavy-Duty Truck,Engine & Drivetrain,1,135.0,1,0
+2025-03-01,Heavy-Duty Truck,Filters & Fluids,56,6155.0,32,0
+2025-03-01,Heavy-Duty Truck,HVAC & Cooling,29,2850.0,15,0
+2025-03-01,Heavy-Duty Truck,Suspension & Axles,2,190.0,2,0
+2025-03-01,Heavy-Duty Truck,Tyres & Wheels,6,7920.0,1,0
+2025-03-01,Medium-Duty Box Truck,Body & Exterior,4,220.0,3,0
+2025-03-01,Medium-Duty Box Truck,Braking System,42,16520.0,20,1
+2025-03-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,2,0
+2025-03-01,Medium-Duty Box Truck,Engine & Drivetrain,6,810.0,3,0
+2025-03-01,Medium-Duty Box Truck,Filters & Fluids,42,4480.0,19,1
+2025-03-01,Medium-Duty Box Truck,HVAC & Cooling,8,600.0,4,0
+2025-03-01,Medium-Duty Box Truck,Suspension & Axles,5,1645.0,3,0
+2025-03-01,Refrigerated Chiller Truck,Body & Exterior,2,110.0,1,0
+2025-03-01,Refrigerated Chiller Truck,Braking System,12,4640.0,6,0
+2025-03-01,Refrigerated Chiller Truck,Electrical & Lighting,2,380.0,1,0
+2025-03-01,Refrigerated Chiller Truck,Filters & Fluids,27,3015.0,13,0
+2025-03-01,Refrigerated Chiller Truck,HVAC & Cooling,33,30050.0,6,0
+2025-03-01,Utility Pickup,Body & Exterior,2,110.0,1,0
+2025-03-01,Utility Pickup,Braking System,11,4460.0,6,0
+2025-03-01,Utility Pickup,Electrical & Lighting,1,190.0,1,0
+2025-03-01,Utility Pickup,Filters & Fluids,9,745.0,7,0
+2025-03-01,Utility Pickup,HVAC & Cooling,4,300.0,3,0
+2025-04-01,Delivery Van,Body & Exterior,7,1405.0,5,0
+2025-04-01,Delivery Van,Braking System,23,9180.0,11,1
+2025-04-01,Delivery Van,Electrical & Lighting,2,380.0,1,0
+2025-04-01,Delivery Van,Engine & Drivetrain,2,270.0,1,0
+2025-04-01,Delivery Van,Filters & Fluids,32,3505.0,19,2
+2025-04-01,Delivery Van,HVAC & Cooling,14,1185.0,9,0
+2025-04-01,Heavy-Duty Truck,Body & Exterior,7,1150.0,5,0
+2025-04-01,Heavy-Duty Truck,Braking System,38,15400.0,19,0
+2025-04-01,Heavy-Duty Truck,Electrical & Lighting,6,3120.0,3,0
+2025-04-01,Heavy-Duty Truck,Engine & Drivetrain,1,135.0,1,0
+2025-04-01,Heavy-Duty Truck,Filters & Fluids,49,4660.0,26,0
+2025-04-01,Heavy-Duty Truck,HVAC & Cooling,29,6750.0,17,0
+2025-04-01,Heavy-Duty Truck,Suspension & Axles,12,9015.0,4,0
+2025-04-01,Heavy-Duty Truck,Tyres & Wheels,4,2560.0,1,0
+2025-04-01,Medium-Duty Box Truck,Braking System,32,13040.0,17,1
+2025-04-01,Medium-Duty Box Truck,Electrical & Lighting,6,3120.0,3,0
+2025-04-01,Medium-Duty Box Truck,Engine & Drivetrain,8,21200.0,1,0
+2025-04-01,Medium-Duty Box Truck,Filters & Fluids,48,5590.0,23,0
+2025-04-01,Medium-Duty Box Truck,HVAC & Cooling,11,1230.0,6,0
+2025-04-01,Medium-Duty Box Truck,Suspension & Axles,2,190.0,1,0
+2025-04-01,Refrigerated Chiller Truck,Body & Exterior,3,930.0,2,0
+2025-04-01,Refrigerated Chiller Truck,Braking System,13,5180.0,6,0
+2025-04-01,Refrigerated Chiller Truck,Electrical & Lighting,1,190.0,1,0
+2025-04-01,Refrigerated Chiller Truck,Filters & Fluids,11,1160.0,7,0
+2025-04-01,Refrigerated Chiller Truck,HVAC & Cooling,5,510.0,3,0
+2025-04-01,Utility Pickup,Body & Exterior,1,55.0,1,0
+2025-04-01,Utility Pickup,Braking System,4,1520.0,2,0
+2025-04-01,Utility Pickup,Electrical & Lighting,2,380.0,1,0
+2025-04-01,Utility Pickup,Engine & Drivetrain,2,270.0,1,0
+2025-04-01,Utility Pickup,Filters & Fluids,29,3090.0,16,0
+2025-04-01,Utility Pickup,Suspension & Axles,2,775.0,2,0
+2025-05-01,Delivery Van,Body & Exterior,4,730.0,2,0
+2025-05-01,Delivery Van,Braking System,23,9380.0,13,0
+2025-05-01,Delivery Van,Electrical & Lighting,3,570.0,2,0
+2025-05-01,Delivery Van,Engine & Drivetrain,9,21335.0,2,0
+2025-05-01,Delivery Van,Filters & Fluids,58,6225.0,26,0
+2025-05-01,Delivery Van,HVAC & Cooling,15,1800.0,8,1
+2025-05-01,Delivery Van,Tyres & Wheels,10,13200.0,1,0
+2025-05-01,Heavy-Duty Truck,Body & Exterior,9,1515.0,8,1
+2025-05-01,Heavy-Duty Truck,Braking System,49,19380.0,25,0
+2025-05-01,Heavy-Duty Truck,Electrical & Lighting,4,3120.0,1,0
+2025-05-01,Heavy-Duty Truck,Engine & Drivetrain,9,21335.0,2,1
+2025-05-01,Heavy-Duty Truck,Filters & Fluids,84,8970.0,44,1
+2025-05-01,Heavy-Duty Truck,HVAC & Cooling,38,3390.0,21,1
+2025-05-01,Heavy-Duty Truck,Suspension & Axles,5,2230.0,3,0
+2025-05-01,Heavy-Duty Truck,Tyres & Wheels,8,5120.0,1,0
+2025-05-01,Medium-Duty Box Truck,Body & Exterior,4,730.0,2,0
+2025-05-01,Medium-Duty Box Truck,Braking System,22,8720.0,11,0
+2025-05-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,1,0
+2025-05-01,Medium-Duty Box Truck,Engine & Drivetrain,2,270.0,1,0
+2025-05-01,Medium-Duty Box Truck,Filters & Fluids,54,6425.0,28,0
+2025-05-01,Medium-Duty Box Truck,HVAC & Cooling,26,2220.0,13,0
+2025-05-01,Medium-Duty Box Truck,Suspension & Axles,3,285.0,2,0
+2025-05-01,Medium-Duty Box Truck,Tyres & Wheels,13,8320.0,1,0
+2025-05-01,Refrigerated Chiller Truck,Body & Exterior,4,1240.0,2,0
+2025-05-01,Refrigerated Chiller Truck,Braking System,19,7700.0,9,0
+2025-05-01,Refrigerated Chiller Truck,Electrical & Lighting,6,4680.0,1,1
+2025-05-01,Refrigerated Chiller Truck,Filters & Fluids,19,2115.0,9,0
+2025-05-01,Refrigerated Chiller Truck,HVAC & Cooling,26,11895.0,10,0
+2025-05-01,Refrigerated Chiller Truck,Suspension & Axles,1,95.0,1,0
+2025-05-01,Utility Pickup,Body & Exterior,4,220.0,2,0
+2025-05-01,Utility Pickup,Braking System,8,3200.0,5,0
+2025-05-01,Utility Pickup,Engine & Drivetrain,1,135.0,1,0
+2025-05-01,Utility Pickup,Filters & Fluids,12,1495.0,7,0
+2025-05-01,Utility Pickup,HVAC & Cooling,5,375.0,3,0
+2025-05-01,Utility Pickup,Tyres & Wheels,13,17160.0,1,0
+2025-06-01,Delivery Van,Body & Exterior,8,950.0,4,0
+2025-06-01,Delivery Van,Braking System,28,11320.0,11,1
+2025-06-01,Delivery Van,Electrical & Lighting,14,9950.0,4,2
+2025-06-01,Delivery Van,Engine & Drivetrain,2,4700.0,1,0
+2025-06-01,Delivery Van,Filters & Fluids,18,2125.0,9,0
+2025-06-01,Delivery Van,HVAC & Cooling,21,5475.0,10,0
+2025-06-01,Delivery Van,Suspension & Axles,13,9430.0,2,0
+2025-06-01,Delivery Van,Tyres & Wheels,5,3200.0,1,0
+2025-06-01,Heavy-Duty Truck,Body & Exterior,7,640.0,4,1
+2025-06-01,Heavy-Duty Truck,Braking System,48,19480.0,22,1
+2025-06-01,Heavy-Duty Truck,Electrical & Lighting,7,4840.0,5,0
+2025-06-01,Heavy-Duty Truck,Engine & Drivetrain,4,540.0,4,0
+2025-06-01,Heavy-Duty Truck,Filters & Fluids,39,4135.0,21,0
+2025-06-01,Heavy-Duty Truck,HVAC & Cooling,34,5310.0,20,0
+2025-06-01,Heavy-Duty Truck,Suspension & Axles,4,380.0,3,0
+2025-06-01,Medium-Duty Box Truck,Body & Exterior,6,840.0,3,0
+2025-06-01,Medium-Duty Box Truck,Braking System,40,16040.0,19,1
+2025-06-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,1,0
+2025-06-01,Medium-Duty Box Truck,Engine & Drivetrain,7,3160.0,4,1
+2025-06-01,Medium-Duty Box Truck,Filters & Fluids,62,6835.0,33,2
+2025-06-01,Medium-Duty Box Truck,HVAC & Cooling,11,825.0,6,0
+2025-06-01,Medium-Duty Box Truck,Suspension & Axles,3,285.0,2,0
+2025-06-01,Medium-Duty Box Truck,Tyres & Wheels,14,8960.0,1,0
+2025-06-01,Refrigerated Chiller Truck,Body & Exterior,2,110.0,1,0
+2025-06-01,Refrigerated Chiller Truck,Braking System,11,4620.0,7,2
+2025-06-01,Refrigerated Chiller Truck,Electrical & Lighting,14,9740.0,2,0
+2025-06-01,Refrigerated Chiller Truck,Filters & Fluids,23,2290.0,10,0
+2025-06-01,Refrigerated Chiller Truck,HVAC & Cooling,13,975.0,7,0
+2025-06-01,Utility Pickup,Braking System,9,3700.0,4,0
+2025-06-01,Utility Pickup,Engine & Drivetrain,1,135.0,1,0
+2025-06-01,Utility Pickup,Filters & Fluids,22,2145.0,11,0
+2025-06-01,Utility Pickup,HVAC & Cooling,1,75.0,1,0
+2025-06-01,Utility Pickup,Suspension & Axles,6,5040.0,1,0
+2025-07-01,Delivery Van,Body & Exterior,4,475.0,3,0
+2025-07-01,Delivery Van,Braking System,24,9440.0,13,0
+2025-07-01,Delivery Van,Electrical & Lighting,4,760.0,3,0
+2025-07-01,Delivery Van,Filters & Fluids,34,3325.0,15,0
+2025-07-01,Delivery Van,HVAC & Cooling,14,1185.0,8,0
+2025-07-01,Delivery Van,Suspension & Axles,2,190.0,1,0
+2025-07-01,Heavy-Duty Truck,Body & Exterior,11,3155.0,7,0
+2025-07-01,Heavy-Duty Truck,Braking System,50,20000.0,23,1
+2025-07-01,Heavy-Duty Truck,Electrical & Lighting,4,2740.0,2,0
+2025-07-01,Heavy-Duty Truck,Engine & Drivetrain,5,675.0,3,0
+2025-07-01,Heavy-Duty Truck,Filters & Fluids,61,6915.0,29,1
+2025-07-01,Heavy-Duty Truck,HVAC & Cooling,42,4500.0,23,0
+2025-07-01,Heavy-Duty Truck,Suspension & Axles,3,285.0,2,0
+2025-07-01,Heavy-Duty Truck,Tyres & Wheels,13,8320.0,1,0
+2025-07-01,Medium-Duty Box Truck,Body & Exterior,3,675.0,2,0
+2025-07-01,Medium-Duty Box Truck,Braking System,30,11840.0,13,1
+2025-07-01,Medium-Duty Box Truck,Electrical & Lighting,2,380.0,1,0
+2025-07-01,Medium-Duty Box Truck,Engine & Drivetrain,1,135.0,1,0
+2025-07-01,Medium-Duty Box Truck,Filters & Fluids,32,3985.0,16,0
+2025-07-01,Medium-Duty Box Truck,HVAC & Cooling,14,1185.0,8,0
+2025-07-01,Refrigerated Chiller Truck,Braking System,8,3160.0,5,0
+2025-07-01,Refrigerated Chiller Truck,Engine & Drivetrain,5,675.0,3,0
+2025-07-01,Refrigerated Chiller Truck,Filters & Fluids,19,2170.0,11,0
+2025-07-01,Refrigerated Chiller Truck,HVAC & Cooling,15,10530.0,5,1
+2025-07-01,Utility Pickup,Braking System,8,3080.0,4,0
+2025-07-01,Utility Pickup,Engine & Drivetrain,1,920.0,1,0
+2025-07-01,Utility Pickup,Filters & Fluids,18,2195.0,9,0
+2025-07-01,Utility Pickup,HVAC & Cooling,8,870.0,5,0
+2025-08-01,Delivery Van,Body & Exterior,3,420.0,2,0
+2025-08-01,Delivery Van,Braking System,25,10060.0,14,1
+2025-08-01,Delivery Van,Electrical & Lighting,14,12930.0,3,0
+2025-08-01,Delivery Van,Filters & Fluids,17,2200.0,10,0
+2025-08-01,Delivery Van,HVAC & Cooling,14,1455.0,8,0
+2025-08-01,Delivery Van,Suspension & Axles,3,285.0,2,0
+2025-08-01,Heavy-Duty Truck,Body & Exterior,5,785.0,4,1
+2025-08-01,Heavy-Duty Truck,Braking System,53,21300.0,24,2
+2025-08-01,Heavy-Duty Truck,Electrical & Lighting,5,2210.0,4,0
+2025-08-01,Heavy-Duty Truck,Engine & Drivetrain,6,810.0,4,1
+2025-08-01,Heavy-Duty Truck,Filters & Fluids,94,11185.0,43,0
+2025-08-01,Heavy-Duty Truck,HVAC & Cooling,36,6735.0,16,0
+2025-08-01,Heavy-Duty Truck,Suspension & Axles,2,190.0,2,0
+2025-08-01,Medium-Duty Box Truck,Body & Exterior,5,1040.0,3,0
+2025-08-01,Medium-Duty Box Truck,Braking System,45,18300.0,21,0
+2025-08-01,Medium-Duty Box Truck,Electrical & Lighting,6,3500.0,2,0
+2025-08-01,Medium-Duty Box Truck,Engine & Drivetrain,4,540.0,3,0
+2025-08-01,Medium-Duty Box Truck,Filters & Fluids,43,4485.0,22,1
+2025-08-01,Medium-Duty Box Truck,HVAC & Cooling,20,5535.0,12,1
+2025-08-01,Medium-Duty Box Truck,Suspension & Axles,2,190.0,1,0
+2025-08-01,Medium-Duty Box Truck,Tyres & Wheels,14,18480.0,1,0
+2025-08-01,Refrigerated Chiller Truck,Body & Exterior,2,110.0,1,0
+2025-08-01,Refrigerated Chiller Truck,Braking System,4,1520.0,3,0
+2025-08-01,Refrigerated Chiller Truck,Filters & Fluids,37,4270.0,17,1
+2025-08-01,Refrigerated Chiller Truck,HVAC & Cooling,7,660.0,4,0
+2025-08-01,Utility Pickup,Body & Exterior,1,55.0,1,0
+2025-08-01,Utility Pickup,Braking System,19,7540.0,8,1
+2025-08-01,Utility Pickup,Electrical & Lighting,1,190.0,1,0
+2025-08-01,Utility Pickup,Engine & Drivetrain,3,405.0,2,0
+2025-08-01,Utility Pickup,Filters & Fluids,21,2495.0,10,0
+2025-08-01,Utility Pickup,HVAC & Cooling,18,1485.0,9,0
+2025-09-01,Delivery Van,Body & Exterior,1,55.0,1,0
+2025-09-01,Delivery Van,Braking System,22,8760.0,12,0
+2025-09-01,Delivery Van,Electrical & Lighting,5,3470.0,3,1
+2025-09-01,Delivery Van,Engine & Drivetrain,1,135.0,1,0
+2025-09-01,Delivery Van,Filters & Fluids,39,4310.0,22,0
+2025-09-01,Delivery Van,HVAC & Cooling,19,1695.0,8,1
+2025-09-01,Delivery Van,Suspension & Axles,3,870.0,2,0
+2025-09-01,Heavy-Duty Truck,Body & Exterior,13,1225.0,7,2
+2025-09-01,Heavy-Duty Truck,Braking System,26,10120.0,16,0
+2025-09-01,Heavy-Duty Truck,Electrical & Lighting,1,190.0,1,0
+2025-09-01,Heavy-Duty Truck,Engine & Drivetrain,8,5005.0,5,2
+2025-09-01,Heavy-Duty Truck,Filters & Fluids,57,6995.0,32,1
+2025-09-01,Heavy-Duty Truck,HVAC & Cooling,32,3075.0,16,0
+2025-09-01,Heavy-Duty Truck,Tyres & Wheels,13,17160.0,1,1
+2025-09-01,Medium-Duty Box Truck,Braking System,31,12500.0,17,0
+2025-09-01,Medium-Duty Box Truck,Electrical & Lighting,6,6180.0,3,0
+2025-09-01,Medium-Duty Box Truck,Filters & Fluids,49,5770.0,22,0
+2025-09-01,Medium-Duty Box Truck,HVAC & Cooling,20,5400.0,10,0
+2025-09-01,Medium-Duty Box Truck,Suspension & Axles,10,7655.0,2,0
+2025-09-01,Refrigerated Chiller Truck,Braking System,15,6100.0,7,0
+2025-09-01,Refrigerated Chiller Truck,Electrical & Lighting,1,190.0,1,0
+2025-09-01,Refrigerated Chiller Truck,Filters & Fluids,26,3080.0,12,0
+2025-09-01,Refrigerated Chiller Truck,HVAC & Cooling,7,4155.0,4,0
+2025-09-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,1,0
+2025-09-01,Utility Pickup,Body & Exterior,2,110.0,1,0
+2025-09-01,Utility Pickup,Braking System,13,5380.0,5,1
+2025-09-01,Utility Pickup,Electrical & Lighting,1,190.0,1,0
+2025-09-01,Utility Pickup,Filters & Fluids,23,2530.0,12,1
+2025-09-01,Utility Pickup,HVAC & Cooling,4,300.0,2,0
+2025-09-01,Utility Pickup,Suspension & Axles,14,11760.0,1,0
+2025-10-01,Delivery Van,Body & Exterior,2,620.0,1,1
+2025-10-01,Delivery Van,Braking System,30,12200.0,13,0
+2025-10-01,Delivery Van,Electrical & Lighting,5,3900.0,1,0
+2025-10-01,Delivery Van,Engine & Drivetrain,3,405.0,2,0
+2025-10-01,Delivery Van,Filters & Fluids,32,2990.0,15,1
+2025-10-01,Delivery Van,HVAC & Cooling,11,1095.0,8,0
+2025-10-01,Delivery Van,Suspension & Axles,1,95.0,1,0
+2025-10-01,Heavy-Duty Truck,Body & Exterior,5,785.0,3,0
+2025-10-01,Heavy-Duty Truck,Braking System,43,17380.0,18,0
+2025-10-01,Heavy-Duty Truck,Electrical & Lighting,18,10500.0,4,0
+2025-10-01,Heavy-Duty Truck,Filters & Fluids,61,5735.0,33,2
+2025-10-01,Heavy-Duty Truck,HVAC & Cooling,19,3240.0,9,0
+2025-10-01,Medium-Duty Box Truck,Body & Exterior,2,110.0,1,0
+2025-10-01,Medium-Duty Box Truck,Braking System,32,13120.0,14,0
+2025-10-01,Medium-Duty Box Truck,Electrical & Lighting,1,190.0,1,1
+2025-10-01,Medium-Duty Box Truck,Engine & Drivetrain,14,32070.0,2,0
+2025-10-01,Medium-Duty Box Truck,Filters & Fluids,43,4865.0,23,1
+2025-10-01,Medium-Duty Box Truck,HVAC & Cooling,15,1395.0,7,0
+2025-10-01,Medium-Duty Box Truck,Suspension & Axles,2,190.0,1,0
+2025-10-01,Refrigerated Chiller Truck,Body & Exterior,4,475.0,3,0
+2025-10-01,Refrigerated Chiller Truck,Braking System,11,4580.0,6,0
+2025-10-01,Refrigerated Chiller Truck,Electrical & Lighting,2,380.0,1,0
+2025-10-01,Refrigerated Chiller Truck,Engine & Drivetrain,1,135.0,1,0
+2025-10-01,Refrigerated Chiller Truck,Filters & Fluids,30,3390.0,14,0
+2025-10-01,Refrigerated Chiller Truck,HVAC & Cooling,21,1575.0,9,0
+2025-10-01,Utility Pickup,Body & Exterior,2,110.0,1,0
+2025-10-01,Utility Pickup,Braking System,12,4840.0,6,0
+2025-10-01,Utility Pickup,Engine & Drivetrain,8,21200.0,1,0
+2025-10-01,Utility Pickup,Filters & Fluids,26,2325.0,12,1
+2025-10-01,Utility Pickup,HVAC & Cooling,3,225.0,2,0
+2025-10-01,Utility Pickup,Suspension & Axles,19,15960.0,2,0
+2025-11-01,Delivery Van,Body & Exterior,2,110.0,1,0
+2025-11-01,Delivery Van,Braking System,19,7660.0,11,0
+2025-11-01,Delivery Van,Electrical & Lighting,3,570.0,2,0
+2025-11-01,Delivery Van,Engine & Drivetrain,1,135.0,1,0
+2025-11-01,Delivery Van,Filters & Fluids,43,4415.0,22,0
+2025-11-01,Delivery Van,HVAC & Cooling,4,300.0,2,0
+2025-11-01,Delivery Van,Suspension & Axles,9,4580.0,3,0
+2025-11-01,Heavy-Duty Truck,Body & Exterior,9,2025.0,6,0
+2025-11-01,Heavy-Duty Truck,Braking System,41,16460.0,19,2
+2025-11-01,Heavy-Duty Truck,Electrical & Lighting,2,380.0,1,0
+2025-11-01,Heavy-Duty Truck,Engine & Drivetrain,5,675.0,3,0
+2025-11-01,Heavy-Duty Truck,Filters & Fluids,54,5475.0,30,1
+2025-11-01,Heavy-Duty Truck,HVAC & Cooling,26,2220.0,13,0
+2025-11-01,Heavy-Duty Truck,Suspension & Axles,14,8035.0,4,0
+2025-11-01,Medium-Duty Box Truck,Body & Exterior,1,310.0,1,1
+2025-11-01,Medium-Duty Box Truck,Braking System,43,17140.0,19,0
+2025-11-01,Medium-Duty Box Truck,Engine & Drivetrain,4,3680.0,3,3
+2025-11-01,Medium-Duty Box Truck,Filters & Fluids,37,3675.0,21,0
+2025-11-01,Medium-Duty Box Truck,HVAC & Cooling,23,2265.0,14,1
+2025-11-01,Refrigerated Chiller Truck,Braking System,18,7240.0,10,0
+2025-11-01,Refrigerated Chiller Truck,Electrical & Lighting,5,950.0,3,0
+2025-11-01,Refrigerated Chiller Truck,Filters & Fluids,22,2215.0,10,0
+2025-11-01,Refrigerated Chiller Truck,HVAC & Cooling,7,525.0,4,0
+2025-11-01,Refrigerated Chiller Truck,Suspension & Axles,1,95.0,1,0
+2025-11-01,Utility Pickup,Body & Exterior,2,620.0,1,0
+2025-11-01,Utility Pickup,Braking System,18,7120.0,9,1
+2025-11-01,Utility Pickup,Electrical & Lighting,4,2020.0,3,0
+2025-11-01,Utility Pickup,Engine & Drivetrain,1,135.0,1,0
+2025-11-01,Utility Pickup,Filters & Fluids,19,2290.0,9,0
+2025-11-01,Utility Pickup,HVAC & Cooling,8,600.0,4,0
+2025-12-01,Delivery Van,Body & Exterior,6,840.0,3,1
+2025-12-01,Delivery Van,Braking System,15,5860.0,9,0
+2025-12-01,Delivery Van,Electrical & Lighting,13,10140.0,1,0
+2025-12-01,Delivery Van,Engine & Drivetrain,16,31740.0,4,0
+2025-12-01,Delivery Van,Filters & Fluids,27,2880.0,14,1
+2025-12-01,Delivery Van,HVAC & Cooling,12,4530.0,6,0
+2025-12-01,Heavy-Duty Truck,Body & Exterior,4,730.0,3,1
+2025-12-01,Heavy-Duty Truck,Braking System,35,14020.0,18,0
+2025-12-01,Heavy-Duty Truck,Electrical & Lighting,7,2590.0,5,0
+2025-12-01,Heavy-Duty Truck,Engine & Drivetrain,13,24390.0,4,0
+2025-12-01,Heavy-Duty Truck,Filters & Fluids,56,5865.0,27,0
+2025-12-01,Heavy-Duty Truck,HVAC & Cooling,23,5760.0,11,1
+2025-12-01,Heavy-Duty Truck,Suspension & Axles,2,190.0,1,0
+2025-12-01,Medium-Duty Box Truck,Body & Exterior,9,2535.0,6,1
+2025-12-01,Medium-Duty Box Truck,Braking System,22,8960.0,12,0
+2025-12-01,Medium-Duty Box Truck,Electrical & Lighting,1,1180.0,1,0
+2025-12-01,Medium-Duty Box Truck,Engine & Drivetrain,5,5105.0,4,0
+2025-12-01,Medium-Duty Box Truck,Filters & Fluids,30,2940.0,18,0
+2025-12-01,Medium-Duty Box Truck,HVAC & Cooling,14,3135.0,8,0
+2025-12-01,Medium-Duty Box Truck,Suspension & Axles,4,380.0,2,0
+2025-12-01,Refrigerated Chiller Truck,Body & Exterior,2,620.0,1,0
+2025-12-01,Refrigerated Chiller Truck,Braking System,22,8800.0,10,0
+2025-12-01,Refrigerated Chiller Truck,Electrical & Lighting,2,2900.0,1,0
+2025-12-01,Refrigerated Chiller Truck,Filters & Fluids,20,2155.0,8,0
+2025-12-01,Refrigerated Chiller Truck,HVAC & Cooling,15,1665.0,8,1
+2025-12-01,Refrigerated Chiller Truck,Suspension & Axles,2,190.0,1,0
+2025-12-01,Utility Pickup,Braking System,14,5760.0,6,0
+2025-12-01,Utility Pickup,Electrical & Lighting,3,3090.0,2,0
+2025-12-01,Utility Pickup,Filters & Fluids,13,1400.0,5,0
+2025-12-01,Utility Pickup,HVAC & Cooling,9,675.0,4,0
