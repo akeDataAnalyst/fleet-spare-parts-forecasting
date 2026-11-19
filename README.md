@@ -1,4 +1,5 @@
 # Commercial Fleet Spare-Parts Demand Forecasting & Maintenance Trend Dashboard
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://fleet-spare-parts-forecasting-6ud6ak4kprbbmmjfeenwar.streamlit.app/)
 
 ## Description
 An end-to-end supply chain analytics and demand forecasting platform built in Python (Jupyter Notebook) and Streamlit. Designed for commercial fleet and logistics operations in the UAE (AED currency, regional hubs, and peak summer heat seasonality), the system models 36 months of maintenance work orders and spare-parts consumption to segment SKUs, benchmark forecasting algorithms, diagnose repeat failures, and generate actionable replenishment priorities.
